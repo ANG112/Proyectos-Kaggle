@@ -1,0 +1,913 @@
+id,Company,TypeName,Inches,Ram,OpSys,Weight,Price_euros,Resolution_disc,Pantalla_disc,Family_disc,Clock_speed_disc,Modelo_procesador_disc,Gpu Type,Gpu_Brand_disc,GPU_model_disc,storage_type_disc
+268,Dell,Notebook,15.6,8,Windows 10,2.36,749.0,0,1,3,4,4,Dedicated,0,2,1
+347,Asus,Notebook,15.6,4,Windows 10,2.0,449.0,0,1,0,0,0,Unknown,1,0,1
+353,Toshiba,Notebook,13.3,8,Windows 7,1.2,1460.0,3,1,2,3,3,Unknown,1,2,3
+578,Dell,Gaming,15.6,16,Windows 10,4.42,2868.99,9,4,3,6,6,Dedicated,2,10,3
+42,Dell,Ultrabook,12.5,8,Windows 7,1.26,1713.37,3,1,2,1,4,Unknown,1,2,3
+867,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,1099.0,3,1,3,4,4,Dedicated,2,3,3
+1136,Asus,Notebook,15.6,4,Linux,2.0,415.0,3,1,1,0,0,Unknown,1,2,3
+609,MSI,Gaming,15.6,8,Windows 10,2.4,1142.8,3,1,3,6,6,Dedicated,2,3,3
+474,Asus,Ultrabook,14.0,8,Windows 10,1.3,1193.0,3,1,3,4,4,Dedicated,2,2,3
+838,Asus,Gaming,15.6,16,Windows 10,2.5,1600.0,3,1,3,6,6,Dedicated,2,4,3
+851,Asus,Notebook,15.6,4,Windows 10,2.65,309.0,0,1,0,1,0,Unknown,1,0,1
+904,Dell,Notebook,15.6,8,Windows 10,2.02,855.0,3,1,3,3,3,Unknown,1,2,3
+355,Toshiba,Notebook,15.6,8,Windows 10,2.2,1119.0,0,1,2,3,3,Unknown,1,2,3
+44,HP,Notebook,15.6,6,Windows 10,1.95,649.0,3,1,1,0,1,Dedicated,0,1,3
+36,Toshiba,Notebook,14.0,4,Windows 10,1.75,499.0,0,1,0,0,0,Unknown,1,0,3
+971,Dell,Ultrabook,15.6,8,Windows 10,1.88,1096.16,3,1,2,1,2,Unknown,1,2,3
+938,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,629.0,3,1,1,1,0,Unknown,1,2,3
+718,Acer,Notebook,15.6,6,Windows 10,2.23,549.0,0,1,2,2,2,Unknown,1,2,1
+518,Lenovo,Notebook,15.6,32,Windows 10,2.5,4899.0,9,4,4,8,12,Dedicated,2,12,3
+1126,Acer,Notebook,17.3,8,Windows 10,3.0,854.0,3,1,2,1,2,Dedicated,2,2,3
+51,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,646.27,0,0,0,0,0,Unknown,1,0,0
+772,HP,Notebook,17.3,6,Windows 10,2.71,655.01,3,1,2,2,1,Dedicated,0,1,1
+1001,HP,Netbook,12.5,8,Windows 10,1.26,1389.0,0,1,2,6,4,Unknown,1,2,3
+330,HP,Gaming,17.3,16,Windows 10,3.35,1379.0,3,1,3,6,6,Dedicated,2,3,3
+66,Dell,Workstation,15.6,8,Windows 10,1.78,2712.0,9,4,3,6,6,Dedicated,2,8,3
+829,Asus,Notebook,15.6,4,Linux,2.0,389.0,3,1,1,0,0,Unknown,1,2,1
+1129,Acer,Notebook,15.6,4,Windows 10,2.4,559.0,0,1,2,2,2,Unknown,1,2,1
+1197,Lenovo,Notebook,15.6,6,Windows 10,2.4,695.0,3,1,2,2,2,Dedicated,2,1,3
+171,Lenovo,Notebook,15.6,4,Windows 10,2.2,306.0,0,1,0,0,0,Unknown,1,0,1
+233,HP,Notebook,14.0,8,Windows 10,1.95,980.0,3,1,2,2,2,Unknown,1,2,3
+205,Dell,Notebook,15.6,8,Windows 10,2.13,728.0,3,1,2,1,2,Dedicated,0,1,3
+361,Asus,Gaming,15.6,8,Windows 10,2.5,1265.0,3,1,3,6,6,Dedicated,2,4,3
+1250,Lenovo,Notebook,15.6,8,Windows 7,2.32,895.0,3,1,3,2,4,Dedicated,0,1,2
+707,Dell,Notebook,15.6,4,Windows 10,2.18,614.0,0,1,1,0,0,Dedicated,0,0,1
+884,Acer,Notebook,15.6,4,Chrome OS,2.2,359.0,3,1,0,0,0,Unknown,1,0,0
+1071,Lenovo,Notebook,15.6,6,Windows 10,2.2,597.57,3,1,2,0,0,Dedicated,0,1,3
+95,Dell,Notebook,15.6,4,Windows 10,2.2,369.0,0,1,0,1,0,Unknown,1,0,1
+745,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0,1,0,1,0,Unknown,1,0,1
+899,Acer,Notebook,15.6,4,Linux,2.1,367.0,0,1,1,4,1,Unknown,1,2,1
+313,Asus,Ultrabook,15.6,8,Windows 10,1.7,1049.9,3,1,3,4,4,Dedicated,2,2,3
+1063,MSI,Gaming,15.6,8,Windows 10,2.2,1119.91,3,1,2,2,2,Dedicated,2,3,3
+193,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,1094.0,3,1,2,4,2,Unknown,1,2,3
+625,HP,Ultrabook,15.6,8,Windows 10,1.91,659.0,3,1,3,3,3,Unknown,1,2,3
+142,HP,Notebook,15.6,8,Windows 10,2.31,1427.0,3,1,3,10,5,Unknown,1,4,3
+243,HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,495.0,0,0,0,0,0,Unknown,1,0,0
+1214,HP,Notebook,14.0,8,Windows 10,1.48,1268.0,3,1,2,6,4,Unknown,1,2,3
+1047,Dell,Notebook,15.6,4,Windows 10,2.3,418.64,0,1,1,0,0,Unknown,1,2,1
+648,Lenovo,Notebook,15.6,4,No OS,2.2,479.0,3,1,1,0,0,Dedicated,0,0,1
+34,Apple,Ultrabook,15.4,16,Mac OS X,2.04,2139.97,9,3,3,0,8,Unknown,1,8,0
+804,HP,Notebook,14.0,4,Windows 7,1.54,1030.99,3,1,2,3,3,Unknown,1,2,1
+872,HP,Notebook,15.6,4,Windows 10,1.86,397.0,3,1,1,0,0,Unknown,1,2,1
+1297,HP,Notebook,15.6,8,Windows 7,1.88,1579.0,3,1,2,3,3,Unknown,1,2,3
+192,Dell,Notebook,15.6,8,Linux,1.98,726.0,3,1,2,2,2,Unknown,1,2,1
+451,HP,Notebook,15.6,4,Windows 10,2.1,347.0,0,1,0,1,0,Unknown,1,0,1
+894,Fujitsu,Notebook,15.6,4,Windows 10,2.3,649.0,0,1,2,3,3,Unknown,1,2,3
+961,Toshiba,Ultrabook,14.0,8,Windows 10,1.47,1725.0,3,1,3,6,7,Unknown,1,2,3
+1168,Lenovo,Ultrabook,14.0,4,Windows 10,1.7,1096.0,3,1,2,3,3,Unknown,1,2,3
+966,Lenovo,Notebook,15.6,8,Windows 10,2.3,1529.0,3,1,3,6,7,Unknown,1,2,3
+794,Mediacom,Notebook,14.0,2,Windows 10,1.4,239.0,3,1,0,0,0,Unknown,1,0,0
+763,Lenovo,Workstation,15.6,8,Windows 10,2.67,1925.0,3,1,3,6,6,Dedicated,2,8,3
+946,Lenovo,Notebook,15.6,4,Windows 10,1.85,414.9,3,1,1,0,0,Unknown,1,2,1
+1298,Acer,Notebook,15.6,4,Windows 10,2.2,469.0,0,1,1,0,0,Dedicated,2,0,1
+715,Asus,Notebook,14.0,4,Windows 10,1.5,278.0,0,1,0,0,0,Unknown,1,0,0
+762,Dell,Ultrabook,13.3,8,Windows 10,1.2,1449.0,3,1,3,3,3,Unknown,1,2,3
+1101,MSI,Gaming,15.6,8,Windows 10,2.2,1089.0,3,1,2,2,2,Dedicated,2,3,3
+994,HP,Netbook,12.5,8,Windows 10,0.97,1908.0,3,1,3,4,7,Unknown,1,4,3
+528,Dell,Ultrabook,14.0,8,Linux,1.6,1099.0,3,1,3,6,6,Unknown,1,2,3
+926,Lenovo,Notebook,15.6,8,No OS,2.2,629.0,0,1,3,2,4,Dedicated,2,1,1
+791,HP,Notebook,15.6,4,No OS,1.86,345.99,0,1,1,0,0,Unknown,1,2,1
+351,Acer,Notebook,14.0,4,Chrome OS,1.68,349.0,0,1,0,1,0,Unknown,1,0,0
+166,Dell,Notebook,15.6,8,Windows 7,2.09,1062.95,3,1,2,1,4,Unknown,1,2,3
+1196,Acer,Notebook,15.6,4,Windows 10,2.1,348.0,0,1,0,0,0,Unknown,1,0,1
+1056,Dell,Notebook,15.6,8,Windows 10,2.33,844.0,3,1,2,1,2,Dedicated,0,1,3
+909,Razer,Gaming,17.3,32,Windows 10,3.49,6099.0,9,4,3,10,10,Dedicated,2,12,3
+1189,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,0,1,0,0,0,Dedicated,0,0,3
+654,MSI,Gaming,17.3,16,Windows 10,3.78,2499.0,3,1,3,6,6,Dedicated,2,10,3
+968,Lenovo,Notebook,15.6,4,Windows 10,2.2,535.0,3,1,2,3,3,Unknown,1,2,1
+1027,HP,Ultrabook,12.5,8,Windows 7,1.26,2296.95,3,1,3,2,4,Unknown,1,2,3
+217,Lenovo,Netbook,11.6,4,Windows 10,1.4,475.0,0,0,0,1,0,Unknown,1,0,3
+1224,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1584.0,3,1,3,4,4,Unknown,1,2,3
+559,Dell,Notebook,17.3,16,Windows 10,2.77,1549.0,3,1,3,3,3,Dedicated,2,4,3
+136,Dell,Ultrabook,13.3,8,Windows 10,1.29,899.0,3,1,2,2,2,Unknown,1,2,3
+420,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,839.0,3,1,3,3,3,Unknown,1,2,1
+54,Toshiba,Ultrabook,13.3,32,Windows 10,1.05,2799.0,3,1,3,4,4,Unknown,1,2,3
+788,Acer,Notebook,15.6,4,Windows 10,2.1,451.0,0,1,1,0,0,Dedicated,0,0,3
+628,HP,Notebook,15.6,8,Windows 10,2.2,1099.0,3,1,2,2,2,Dedicated,2,3,3
+1215,Lenovo,Notebook,15.6,8,Windows 10,2.05,880.0,3,1,3,3,3,Unknown,1,2,3
+396,Lenovo,Notebook,15.6,4,No OS,1.9,339.0,0,1,1,0,0,Unknown,1,2,1
+1083,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0,1,0,1,0,Unknown,1,0,1
+20,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,2277.0,3,1,2,2,2,Unknown,1,2,3
+1263,HP,Notebook,13.3,16,Windows 10,1.49,1197.0,3,1,3,3,3,Unknown,1,2,3
+258,Dell,Gaming,15.6,8,Linux,2.62,929.0,3,1,3,6,6,Dedicated,2,3,1
+159,Dell,Notebook,15.6,4,Windows 10,2.18,558.6,0,1,1,0,0,Unknown,1,2,1
+572,Lenovo,Gaming,15.6,16,Windows 10,2.5,999.0,3,1,2,0,2,Dedicated,0,2,3
+374,Toshiba,Notebook,15.6,8,Windows 10,2.0,860.0,3,1,2,2,2,Unknown,1,2,1
+25,HP,Ultrabook,12.5,8,Windows 7,1.26,1895.0,0,1,2,1,4,Unknown,1,2,3
+345,Lenovo,Gaming,15.6,4,Windows 10,2.4,999.0,3,1,3,6,6,Dedicated,2,3,1
+827,Dell,Netbook,11.6,4,Windows 10,1.63,744.0,0,1,0,0,0,Unknown,1,0,3
+661,HP,Notebook,15.6,8,Windows 10,2.04,889.0,3,1,2,2,2,Dedicated,2,3,3
+102,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,2025.0,3,1,3,4,4,Unknown,1,2,3
+185,Asus,Gaming,17.3,8,Windows 10,2.73,1770.0,3,1,2,2,2,Dedicated,2,6,3
+69,Asus,Notebook,17.3,8,Windows 10,2.69,891.0,3,1,2,2,2,Dedicated,2,2,3
+327,MSI,Gaming,15.6,16,Windows 10,2.4,1799.0,3,1,3,6,6,Dedicated,2,6,3
+439,Acer,Netbook,11.6,4,Chrome OS,1.25,297.0,0,1,0,1,0,Unknown,1,0,0
+662,MSI,Gaming,17.3,16,Windows 10,4.14,2499.0,3,1,3,6,6,Dedicated,2,10,3
+799,Asus,Notebook,15.6,4,Windows 10,2.2,575.0,3,1,2,2,0,Dedicated,0,0,3
+555,HP,Notebook,15.6,4,Windows 10,2.1,722.0,3,1,2,1,2,Unknown,1,2,1
+40,Toshiba,Notebook,14.0,4,Windows 10,1.75,1020.0,0,1,2,3,3,Unknown,1,2,3
+1110,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,5,2,3,2,4,Unknown,1,2,3
+998,HP,Ultrabook,14.0,8,Windows 10,1.36,1750.0,3,1,3,4,4,Unknown,1,2,3
+500,MSI,Gaming,17.3,8,Windows 10,2.9,1511.19,3,1,3,6,5,Dedicated,2,3,3
+734,Dell,Ultrabook,13.3,8,Windows 10,1.23,1869.0,5,2,2,1,2,Unknown,1,2,3
+974,Lenovo,Notebook,14.0,8,Windows 10,1.7,1364.0,3,1,2,2,2,Unknown,1,2,3
+117,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1799.0,3,1,2,2,2,Unknown,1,2,3
+392,HP,Notebook,15.6,4,Windows 10,2.04,769.99,0,1,1,1,0,Unknown,1,2,3
+1060,Dell,Notebook,15.6,16,Windows 10,2.2,1219.24,3,1,3,3,3,Dedicated,0,1,3
+613,Asus,Notebook,15.6,8,Windows 10,2.37,1099.0,3,1,2,2,2,Unknown,1,2,3
+711,HP,Notebook,14.0,8,Windows 10,1.63,1084.0,3,1,3,3,3,Unknown,1,2,3
+1245,Dell,Notebook,15.6,4,Windows 10,2.18,547.0,0,1,1,1,0,Unknown,1,2,3
+639,Asus,Ultrabook,14.0,8,Windows 10,1.1,1873.0,3,1,3,4,4,Unknown,1,2,3
+9,Acer,Notebook,17.3,4,Windows 10,3.0,805.0,3,1,2,1,2,Dedicated,2,2,3
+1213,Lenovo,Notebook,15.6,4,No OS,1.9,450.0,0,1,1,0,0,Unknown,1,2,1
+535,Dell,Gaming,15.6,8,Windows 10,2.62,1159.0,3,1,3,6,6,Dedicated,2,4,3
+155,Dell,Ultrabook,13.3,8,Linux,1.23,1099.0,5,2,2,1,4,Unknown,1,2,3
+1074,HP,Notebook,17.3,8,Windows 10,2.63,1280.0,3,1,3,4,4,Dedicated,2,3,1
+472,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,603.0,0,0,3,1,1,Unknown,1,5,3
+47,Lenovo,Notebook,17.3,4,No OS,2.8,529.0,3,1,1,0,0,Unknown,1,2,1
+5,HP,Notebook,17.3,8,Windows 10,2.5,928.0,3,1,2,1,2,Unknown,1,2,3
+466,Asus,Notebook,15.6,4,Windows 10,2.0,435.0,0,1,1,1,0,Unknown,1,2,1
+712,HP,Notebook,14.0,8,Windows 10,1.63,812.0,3,1,2,1,2,Unknown,1,2,1
+212,Acer,Notebook,14.0,8,Windows 10,1.5,619.0,3,1,1,1,0,Unknown,1,2,3
+1067,HP,Notebook,15.6,8,No OS,1.86,575.0,3,1,2,2,2,Unknown,1,2,3
+785,HP,Notebook,15.6,8,Windows 10,2.04,389.0,0,1,0,1,0,Unknown,1,0,1
+332,Dell,Notebook,15.6,8,Windows 10,1.95,810.0,0,1,2,2,2,Unknown,1,2,3
+1199,MSI,Gaming,15.6,16,Windows 10,2.94,2267.86,3,1,3,6,6,Dedicated,2,10,3
+412,Dell,Notebook,15.6,8,Windows 10,2.0,1829.0,3,1,3,6,6,Dedicated,2,3,3
+200,HP,Ultrabook,14.0,8,Windows 10,1.43,1500.0,3,1,3,2,4,Unknown,1,2,3
+509,Toshiba,Notebook,15.6,8,Windows 10,2.0,943.0,3,1,2,2,2,Unknown,1,2,3
+411,MSI,Gaming,15.6,8,Windows 10,2.2,1149.0,3,1,3,6,6,Dedicated,2,3,3
+627,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1950.0,3,1,3,4,4,Unknown,1,2,3
+1088,Lenovo,Notebook,15.6,12,Windows 10,2.2,899.0,3,1,2,0,0,Dedicated,0,1,1
+881,Dell,Notebook,15.6,4,Windows 10,1.95,729.9,0,1,2,3,3,Unknown,1,2,1
+914,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1899.0,5,2,3,6,7,Unknown,1,5,3
+690,Toshiba,Notebook,15.6,8,Windows 10,2.0,793.0,0,1,2,2,2,Unknown,1,2,3
+111,HP,Notebook,15.6,8,Windows 10,1.9,1154.0,3,1,2,2,2,Dedicated,0,4,1
+26,HP,Notebook,15.6,8,Windows 10,2.04,979.0,3,1,2,4,2,Dedicated,2,3,3
+375,Dell,Gaming,17.3,16,Windows 10,4.42,2699.0,3,1,3,6,6,Dedicated,2,10,3
+289,HP,Notebook,15.6,12,Windows 10,2.21,1327.0,3,1,3,6,6,Dedicated,2,3,3
+1007,HP,Notebook,13.3,4,Windows 10,1.32,699.0,3,1,2,2,2,Unknown,1,2,3
+476,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,479.0,0,0,0,0,0,Unknown,1,0,0
+475,Asus,Notebook,14.0,8,Windows 10,1.4,941.0,3,1,2,1,2,Unknown,1,2,3
+125,Acer,Notebook,15.6,8,Linux,2.5,879.0,3,1,3,6,6,Dedicated,2,3,3
+1154,HP,Ultrabook,14.0,8,Windows 10,1.54,1468.0,3,1,3,2,4,Unknown,1,2,3
+1184,HP,Workstation,15.6,8,Windows 10,2.6,1738.27,3,1,3,6,6,Dedicated,2,8,3
+322,Fujitsu,Notebook,15.6,8,Windows 10,2.2,739.0,0,1,2,2,2,Unknown,1,2,1
+280,Samsung,Ultrabook,15.0,16,Windows 10,1.23,1849.0,3,1,3,4,4,Dedicated,2,2,3
+63,Lenovo,Notebook,15.6,8,No OS,2.2,629.0,3,1,2,2,2,Dedicated,2,2,3
+547,Asus,Gaming,15.6,16,Windows 10,2.1,1899.0,3,1,3,6,6,Dedicated,2,6,3
+1293,Lenovo,Notebook,13.3,4,Chrome OS,1.45,459.9,0,1,0,1,0,Unknown,1,0,0
+536,Acer,Notebook,15.6,4,Linux,2.1,390.0,0,1,1,0,0,Unknown,1,2,1
+687,Lenovo,Notebook,15.6,4,Windows 10,1.9,498.0,0,1,2,2,2,Unknown,1,2,3
+1023,Dell,Notebook,15.6,8,Linux,2.2,599.9,3,1,3,4,4,Dedicated,0,0,1
+210,HP,Notebook,15.6,4,Windows 10,2.1,398.0,3,1,0,2,0,Dedicated,0,0,1
+657,Dell,Notebook,15.6,8,Windows 10,1.9,1008.52,0,1,2,6,4,Unknown,1,2,1
+671,Asus,Gaming,15.6,8,Windows 10,2.3,1655.0,3,1,3,6,6,Dedicated,2,6,3
+194,Lenovo,Notebook,15.6,4,Windows 10,2.3,977.0,3,1,2,3,3,Dedicated,2,2,1
+672,HP,Notebook,14.0,8,Windows 10,1.48,1292.0,3,1,3,4,4,Unknown,1,2,3
+1152,Acer,Notebook,15.6,4,Windows 10,2.23,619.0,0,1,2,2,2,Unknown,1,2,1
+201,MSI,Gaming,17.3,16,Windows 10,2.8,1890.0,3,1,3,6,6,Dedicated,2,6,3
+792,Acer,Notebook,14.0,8,Windows 10,2.1,389.0,0,1,1,0,0,Unknown,1,2,1
+306,Lenovo,Ultrabook,14.0,16,Windows 10,1.14,2450.0,3,1,3,4,4,Unknown,1,2,3
+828,Dell,Notebook,15.6,16,Windows 10,2.3,859.01,3,1,3,4,4,Dedicated,0,2,1
+1055,HP,Netbook,12.5,8,Windows 10,1.26,1483.0,3,1,3,4,4,Unknown,1,2,3
+813,Dell,Gaming,17.3,32,Windows 10,4.36,3659.4,9,4,3,6,6,Dedicated,2,10,3
+1000,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,789.01,3,1,3,2,4,Unknown,1,2,3
+110,HP,Notebook,15.6,8,Windows 10,2.04,806.0,3,1,2,2,2,Unknown,1,2,1
+399,Acer,Notebook,15.6,4,Linux,2.4,441.8,0,1,2,2,2,Unknown,1,2,1
+636,Lenovo,Notebook,15.6,8,No OS,2.2,709.0,3,1,3,4,4,Dedicated,2,2,1
+1264,HP,Ultrabook,14.0,4,Windows 10,1.48,1082.0,3,1,2,4,4,Unknown,1,2,3
+318,Lenovo,Gaming,15.6,16,Windows 10,2.5,1079.0,3,1,3,6,6,Dedicated,2,4,3
+172,Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,1149.0,3,1,3,6,7,Unknown,1,5,3
+293,Acer,Notebook,15.6,8,Windows 10,3.0,951.0,3,1,3,3,3,Dedicated,2,2,3
+138,Lenovo,2 in 1 Convertible,14.0,8,Windows 7,1.8,2050.38,3,1,3,6,7,Dedicated,2,8,3
+747,MSI,Gaming,15.6,8,Windows 10,2.3,1169.0,3,1,3,6,5,Dedicated,2,3,3
+801,Lenovo,Notebook,14.0,16,Windows 7,1.1,2620.0,9,1,3,6,7,Unknown,1,2,3
+45,Dell,Ultrabook,14.0,8,Windows 10,1.36,1680.0,3,1,3,6,6,Unknown,1,0,3
+1262,Lenovo,Notebook,15.6,8,Windows 10,2.2,589.0,0,1,1,0,0,Unknown,1,2,3
+923,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,689.0,3,1,2,3,3,Unknown,1,2,3
+879,Acer,Notebook,17.3,8,Windows 10,3.3,629.0,1,1,1,0,0,Dedicated,2,2,1
+931,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1590.0,3,1,2,3,3,Unknown,1,2,3
+730,Asus,Gaming,15.6,8,Windows 10,2.2,1169.0,3,1,3,6,5,Dedicated,2,6,1
+55,Asus,Notebook,15.6,8,Linux,2.3,597.0,3,1,1,1,0,Dedicated,2,2,1
+373,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,2041.0,9,0,3,6,7,Unknown,1,2,3
+603,Lenovo,Notebook,15.6,6,Windows 10,2.2,789.0,3,1,3,4,4,Dedicated,2,2,3
+197,Toshiba,Notebook,13.3,8,Windows 10,1.05,1475.0,3,1,2,2,2,Unknown,1,2,3
+599,Asus,Gaming,17.3,8,Windows 10,3.2,1695.0,3,1,3,6,6,Dedicated,0,5,3
+1258,Acer,Gaming,17.3,16,Windows 10,4.2,2299.0,3,1,3,6,6,Dedicated,2,6,3
+682,HP,Notebook,14.0,4,Windows 10,1.63,722.0,0,1,2,1,2,Unknown,1,2,1
+752,Acer,Ultrabook,14.0,8,Windows 10,1.6,770.0,3,1,2,1,2,Unknown,1,2,3
+283,Mediacom,Notebook,13.3,4,Windows 10,1.35,255.0,3,1,0,0,0,Unknown,1,0,0
+1205,Toshiba,Notebook,15.6,8,Windows 10,2.0,1388.0,3,1,3,4,4,Unknown,1,2,3
+1237,Acer,Notebook,15.6,4,Linux,2.1,272.0,0,1,0,0,0,Unknown,1,0,1
+28,Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,1299.0,3,1,3,4,4,Unknown,1,2,3
+809,Dell,Notebook,15.6,8,Windows 10,2.13,767.8,3,1,3,3,3,Dedicated,0,1,3
+1274,HP,Notebook,15.6,6,Windows 10,1.91,568.9,3,1,2,2,0,Dedicated,0,1,3
+532,HP,Notebook,15.6,8,Windows 10,1.96,598.99,3,1,2,2,2,Unknown,1,2,3
+1167,Razer,Gaming,14.0,16,Windows 10,1.95,3499.0,3,1,3,6,6,Dedicated,2,6,3
+942,Lenovo,Notebook,15.6,8,Windows 10,2.3,911.0,3,1,2,2,2,Unknown,1,2,3
+638,Acer,Notebook,15.6,6,Windows 10,2.1,479.0,3,1,1,1,0,Unknown,1,2,1
+739,HP,Notebook,15.6,8,Windows 10,2.04,900.0,3,1,3,4,4,Dedicated,2,3,1
+1181,Asus,Notebook,15.6,4,Windows 10,2.37,398.99,0,1,1,1,0,Unknown,1,2,1
+109,Asus,Gaming,17.3,16,Windows 10,4.0,1900.0,3,1,3,6,5,Dedicated,2,8,3
+1235,Dell,Notebook,15.6,8,Windows 10,2.18,713.99,0,1,2,2,2,Unknown,1,2,3
+640,HP,Ultrabook,15.6,8,Windows 10,1.84,1296.99,3,1,3,2,4,Dedicated,0,4,3
+319,Lenovo,Notebook,15.6,8,No OS,2.3,573.0,3,1,2,2,2,Unknown,1,2,3
+1002,Asus,Notebook,14.0,2,Windows 10,1.65,199.0,0,1,0,0,0,Dedicated,0,0,0
+132,Dell,Notebook,14.0,4,Windows 10,1.76,755.0,0,1,2,3,3,Unknown,1,2,1
+560,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0,1,0,1,0,Unknown,1,0,0
+601,Asus,Notebook,15.6,4,Windows 10,1.86,419.0,0,1,0,0,0,Unknown,1,0,3
+495,Dell,Gaming,17.3,32,Windows 10,4.42,3072.89,3,1,3,6,6,Dedicated,2,10,3
+839,Asus,Gaming,15.6,16,Windows 10,2.5,1799.0,3,1,3,6,6,Dedicated,2,4,3
+622,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,799.0,3,1,2,1,2,Unknown,1,2,3
+619,Asus,Notebook,17.3,4,Windows 10,2.0,564.0,3,1,1,0,0,Dedicated,2,1,1
+631,MSI,Gaming,14.0,16,Windows 10,1.6,1891.0,3,1,3,6,6,Dedicated,2,6,3
+515,Lenovo,Notebook,17.3,8,No OS,2.8,698.0,1,1,2,1,2,Dedicated,2,2,3
+869,LG,Ultrabook,15.6,8,Windows 10,1.09,2299.0,3,1,3,3,3,Unknown,1,2,3
+1068,HP,Workstation,15.6,8,Windows 7,2.59,2229.0,3,1,3,6,5,Dedicated,2,9,3
+99,Dell,Ultrabook,14.0,8,Windows 10,1.5,1962.98,9,0,3,6,7,Unknown,1,2,3
+795,Asus,Notebook,14.0,4,Windows 10 S,1.65,277.99,0,1,0,0,0,Dedicated,0,0,3
+408,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,5,2,3,2,4,Unknown,1,2,3
+634,Asus,Gaming,17.3,24,Windows 10,4.33,1269.0,3,1,3,6,5,Dedicated,2,4,3
+489,Acer,Notebook,15.6,4,Windows 10,2.1,400.0,0,1,1,0,0,Dedicated,0,0,1
+544,MSI,Gaming,17.3,8,Windows 10,2.7,1409.0,3,1,3,6,6,Dedicated,2,6,3
+853,Lenovo,Notebook,15.6,8,Windows 10,2.3,850.66,3,1,2,2,2,Unknown,1,2,1
+15,Lenovo,Notebook,14.0,8,Windows 10,1.32,1650.0,3,1,2,6,4,Unknown,1,2,3
+485,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1649.0,3,1,3,6,7,Unknown,1,5,3
+290,Asus,Notebook,15.6,4,Windows 10,2.0,304.0,0,1,0,0,0,Unknown,1,0,1
+860,Acer,Notebook,15.6,12,Windows 10,2.2,693.99,0,1,2,1,2,Dedicated,2,1,1
+1206,HP,Notebook,14.0,4,Windows 10,1.95,1060.0,0,1,2,2,2,Unknown,1,2,1
+1174,Dell,Notebook,15.6,8,Windows 10,2.18,789.81,3,1,2,2,2,Dedicated,0,0,3
+566,Dell,Notebook,15.6,4,Linux,2.18,465.0,0,1,1,0,0,Dedicated,0,0,1
+227,Lenovo,Gaming,15.6,8,No OS,2.4,809.0,3,1,2,2,2,Dedicated,2,3,3
+967,HP,Notebook,15.6,6,Windows 10,2.04,549.99,3,1,1,10,0,Dedicated,0,0,2
+423,Dell,Notebook,14.0,4,Windows 10,1.76,585.0,0,1,1,0,0,Unknown,1,2,1
+1221,Acer,Notebook,14.0,4,Windows 10,1.6,329.0,3,1,0,0,0,Unknown,1,0,0
+1116,HP,Ultrabook,13.3,8,Windows 10,1.39,1149.0,5,2,3,4,4,Unknown,1,2,3
+947,Asus,Notebook,15.6,8,Windows 10,2.0,399.0,0,1,0,0,0,Unknown,1,0,1
+178,Lenovo,Ultrabook,14.0,8,Windows 10,1.17,1686.64,9,2,3,2,4,Unknown,1,2,3
+580,Dell,Notebook,14.0,8,Linux,1.64,1089.0,3,1,2,6,3,Dedicated,2,3,3
+370,Dell,Notebook,15.6,8,Windows 10,2.0,665.0,0,1,1,0,0,Unknown,1,2,3
+291,Apple,Ultrabook,12.0,8,macOS,0.92,1510.0,4,3,2,6,5,Unknown,1,5,3
+652,Acer,Notebook,17.3,4,Windows 10,3.0,655.0,3,1,1,4,1,Dedicated,2,1,1
+349,Lenovo,Ultrabook,14.0,12,Windows 7,1.4,2299.0,3,1,3,6,7,Unknown,1,2,3
+23,Apple,Ultrabook,13.3,8,macOS,1.34,898.94,3,1,2,3,3,Unknown,1,2,0
+956,Acer,Notebook,15.6,4,Windows 10,2.1,449.0,0,1,1,0,0,Unknown,1,2,3
+996,HP,Notebook,17.3,8,Windows 10,2.65,544.15,1,1,1,0,0,Unknown,1,2,1
+1296,Dell,Gaming,15.6,16,Windows 10,2.6,1349.0,3,1,3,6,6,Dedicated,2,4,3
+482,Lenovo,Gaming,17.3,16,Windows 10,4.6,2749.99,3,1,3,4,10,Dedicated,2,10,3
+650,Acer,Notebook,15.6,4,Linux,2.1,412.0,0,1,1,0,0,Unknown,1,2,3
+624,Acer,Notebook,14.0,4,Windows 10,1.6,349.0,0,1,0,1,0,Unknown,1,0,0
+888,HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,1398.99,3,1,2,1,2,Unknown,1,2,3
+488,Acer,Notebook,14.0,2,Chrome OS,1.68,330.0,0,1,0,1,0,Unknown,1,0,0
+1238,Dell,Notebook,15.6,4,Linux,2.3,598.9,3,1,2,2,2,Dedicated,0,0,3
+154,Dell,Notebook,14.0,8,Windows 10,1.56,1229.0,3,1,2,1,4,Unknown,1,2,3
+381,Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,669.0,3,1,3,1,1,Unknown,1,4,0
+512,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2049.0,3,1,3,4,4,Unknown,1,2,0
+494,Lenovo,Notebook,15.6,16,Windows 7,2.5,2370.0,9,4,3,4,9,Dedicated,2,11,3
+742,Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,795.99,3,1,1,3,1,Unknown,1,2,1
+61,Dell,Notebook,17.3,8,Windows 10,2.8,1085.0,3,1,2,1,2,Dedicated,0,1,3
+907,Dell,Notebook,15.6,8,Windows 10,2.09,1046.44,3,1,2,1,4,Unknown,1,2,1
+308,MSI,Gaming,17.3,16,Windows 10,4.14,2199.0,3,1,3,4,10,Dedicated,2,8,3
+72,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0,1,0,1,0,Unknown,1,0,1
+454,Dell,Notebook,15.6,8,Windows 10,2.2,675.0,3,1,2,1,2,Dedicated,0,1,1
+978,MSI,Gaming,17.3,16,Windows 10,2.43,2649.0,9,4,3,6,5,Dedicated,2,6,3
+581,Mediacom,Notebook,14.0,4,Windows 10,1.45,389.0,3,1,0,0,0,Unknown,1,0,3
+1192,Apple,Ultrabook,13.3,8,macOS,1.37,2040.0,7,3,2,8,7,Unknown,1,7,3
+1268,Lenovo,Ultrabook,14.0,8,Windows 10,1.75,1215.38,3,1,3,3,3,Dedicated,0,3,3
+1160,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1757.42,3,1,3,4,4,Unknown,1,2,3
+1040,Lenovo,Notebook,15.6,4,Windows 10,2.38,1055.0,0,1,2,2,2,Unknown,1,2,1
+658,Dell,Notebook,15.6,8,Windows 10,1.93,1369.0,3,1,3,6,6,Dedicated,2,3,3
+1018,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,867.0,3,1,2,3,3,Unknown,1,2,3
+531,Lenovo,Gaming,15.6,16,Windows 10,2.4,1129.0,3,1,3,6,6,Dedicated,2,4,3
+723,Dell,Ultrabook,12.5,8,Windows 10,1.6,1690.0,3,1,3,6,6,Unknown,1,2,3
+1077,Lenovo,Notebook,15.6,8,Windows 10,2.3,819.0,3,1,2,2,2,Dedicated,2,2,3
+877,Asus,Ultrabook,13.3,8,Windows 10,1.2,729.0,3,1,3,1,1,Unknown,1,4,3
+645,HP,Notebook,15.6,4,Windows 10,1.86,488.69,0,1,2,2,2,Unknown,1,2,1
+342,HP,Notebook,15.6,4,Windows 10,1.86,469.0,3,1,1,0,0,Unknown,1,2,1
+426,MSI,Gaming,17.3,16,Windows 10,4.14,2729.0,3,1,3,10,10,Dedicated,2,10,3
+753,Lenovo,Notebook,14.0,8,Windows 10,1.8,1191.0,3,1,2,3,3,Unknown,1,2,3
+261,Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,1867.85,4,0,3,6,6,Unknown,1,5,3
+395,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1165.0,4,3,3,4,4,Unknown,1,3,0
+766,Lenovo,Notebook,15.6,4,No OS,1.9,489.9,0,1,2,2,2,Unknown,1,2,1
+209,Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,509.0,3,1,1,1,0,Unknown,1,2,1
+1138,HP,Ultrabook,14.0,8,Windows 7,1.54,2198.19,9,1,3,2,4,Unknown,1,2,3
+64,Lenovo,Ultrabook,14.0,8,Windows 10,1.96,1903.0,3,1,3,6,6,Dedicated,2,3,3
+1161,Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,639.01,3,1,2,2,2,Unknown,1,2,1
+366,HP,Notebook,13.3,8,Windows 10,1.16,1690.0,3,1,2,3,3,Unknown,1,2,3
+92,Acer,Notebook,15.6,4,Windows 10,2.4,387.0,0,1,1,0,0,Dedicated,0,0,1
+50,HP,Ultrabook,12.5,8,Windows 10,1.09,3100.0,9,4,3,4,7,Unknown,1,4,3
+656,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1095.0,0,1,2,3,3,Unknown,1,2,3
+606,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,0,1,0,1,0,Unknown,1,0,0
+503,Lenovo,Notebook,15.6,4,Windows 7,2.32,825.0,3,1,3,2,4,Unknown,1,2,2
+1288,Dell,Notebook,15.6,4,Windows 10,2.18,684.99,0,1,2,2,2,Dedicated,0,0,1
+1193,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,3,1,3,2,4,Unknown,1,2,3
+188,Toshiba,Notebook,13.3,8,Windows 10,1.2,1213.0,3,1,2,3,3,Unknown,1,2,3
+945,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1899.0,3,1,2,4,5,Unknown,1,5,3
+1024,HP,Notebook,15.6,4,Windows 10,1.86,438.69,0,1,1,0,0,Dedicated,0,1,1
+53,HP,Notebook,17.3,4,Windows 10,2.5,699.0,3,1,1,0,0,Dedicated,0,1,3
+981,Lenovo,Notebook,15.6,8,Windows 10,2.2,899.0,3,1,3,4,4,Dedicated,2,1,1
+1282,Lenovo,Gaming,15.6,16,Windows 10,2.6,1029.0,3,1,3,6,5,Dedicated,2,3,3
+721,HP,Notebook,15.6,6,Windows 10,2.1,529.0,3,1,2,4,0,Dedicated,0,1,1
+441,Dell,Notebook,15.6,4,Linux,2.18,521.86,0,1,2,2,2,Unknown,1,2,1
+1222,HP,Ultrabook,13.3,8,Windows 10,1.38,1119.0,3,1,3,4,4,Dedicated,2,2,3
+992,Dell,Notebook,15.6,8,Windows 10,2.18,1009.9,3,1,3,4,4,Dedicated,2,2,3
+1271,Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,275.0,0,0,0,0,0,Unknown,1,0,0
+546,Asus,Notebook,15.6,4,Windows 10,2.2,369.0,0,1,0,1,0,Unknown,1,0,1
+541,HP,Notebook,14.0,8,Windows 7,1.43,1469.0,3,1,2,3,3,Unknown,1,2,3
+915,Razer,Gaming,14.0,16,Windows 10,1.95,2599.0,3,1,3,6,6,Dedicated,2,6,3
+543,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1825.0,3,1,2,2,2,Unknown,1,2,3
+139,HP,Notebook,15.6,4,Windows 10,2.04,521.47,0,0,2,1,2,Unknown,1,2,1
+929,Dell,Notebook,15.6,8,Linux,2.3,805.99,0,1,3,4,4,Dedicated,0,0,1
+565,HP,Notebook,15.6,8,Windows 10,2.04,629.0,0,1,3,4,4,Unknown,1,2,1
+300,Lenovo,Notebook,15.6,8,Windows 10,2.2,597.0,0,1,2,2,2,Unknown,1,2,3
+960,HP,Notebook,15.6,4,No OS,1.86,299.0,0,1,0,1,0,Unknown,1,0,3
+750,HP,Gaming,17.3,8,Windows 10,2.75,1399.0,3,1,2,3,3,Dedicated,2,4,3
+362,Asus,Notebook,15.6,4,Windows 10,2.37,849.9,0,1,3,4,4,Unknown,1,2,3
+808,Toshiba,Ultrabook,13.3,16,Windows 10,1.36,1877.0,3,1,3,2,4,Unknown,1,2,3
+263,Dell,Gaming,15.6,8,Windows 10,2.62,899.0,3,1,3,6,6,Dedicated,2,3,2
+701,Toshiba,Notebook,14.0,8,Windows 10,1.25,1535.0,3,1,2,2,2,Unknown,1,2,3
+549,Acer,Netbook,11.6,4,Windows 10,1.4,269.0,0,1,0,1,0,Unknown,1,0,0
+530,Asus,Notebook,17.3,4,Windows 10,2.8,470.34,0,1,0,0,0,Dedicated,2,1,1
+1010,Lenovo,Notebook,14.0,8,Windows 10,1.87,857.07,3,1,2,2,2,Dedicated,2,1,3
+382,Lenovo,Gaming,15.6,8,No OS,2.4,779.0,3,1,2,2,2,Dedicated,2,3,3
+80,Dell,Notebook,15.6,8,Windows 10,2.04,2250.68,9,4,2,3,3,Dedicated,2,9,3
+939,Dell,Gaming,15.6,8,Windows 10,2.62,985.0,3,1,2,2,2,Dedicated,2,3,3
+789,HP,Notebook,14.0,8,Windows 10,1.64,1185.43,3,1,3,4,4,Dedicated,2,3,3
+1239,Lenovo,Notebook,15.6,8,Windows 10,2.3,1049.6,3,1,2,3,3,Unknown,1,2,3
+871,HP,Notebook,15.6,8,Windows 10,1.84,1304.0,3,1,3,4,4,Unknown,1,2,3
+218,HP,Ultrabook,12.5,4,Windows 10,1.26,1539.0,3,1,2,2,2,Unknown,1,2,1
+1182,Dell,Ultrabook,15.6,8,Windows 10,1.88,1298.0,3,1,3,4,4,Unknown,1,2,3
+928,HP,Notebook,15.6,8,Windows 10,1.91,618.99,0,1,2,2,2,Dedicated,0,1,3
+722,Lenovo,Notebook,15.6,8,Windows 10,2.2,459.0,0,1,1,0,0,Unknown,1,2,1
+126,Dell,Notebook,15.6,8,Linux,2.2,647.0,3,1,2,1,2,Dedicated,0,1,1
+486,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2509.0,9,0,3,4,4,Unknown,1,2,3
+1230,Toshiba,Notebook,15.6,8,Windows 10,2.2,1043.0,3,1,3,2,4,Dedicated,2,5,3
+823,Dell,Notebook,15.6,8,Windows 10,2.0,1142.75,3,1,2,1,2,Dedicated,2,2,3
+1300,Dell,Notebook,15.6,8,Windows 10,2.36,638.8,3,1,2,2,2,Dedicated,0,2,1
+1190,HP,Notebook,15.6,4,Windows 10,1.86,439.0,0,1,1,0,0,Unknown,1,2,1
+401,Acer,Notebook,15.6,4,Windows 10,2.1,363.51,0,1,0,0,0,Unknown,1,0,1
+427,Apple,Ultrabook,13.3,8,macOS,1.37,1339.69,7,3,2,3,5,Unknown,1,5,3
+990,Lenovo,Ultrabook,12.5,8,Windows 10,0.99,1399.0,9,0,3,4,7,Unknown,1,4,3
+1043,Dell,Notebook,15.6,8,Windows 10,1.98,961.0,3,1,3,4,4,Dedicated,2,3,1
+720,Lenovo,Notebook,17.3,16,Windows 7,2.4,2968.0,9,4,3,4,9,Dedicated,2,10,3
+973,Acer,Notebook,15.6,8,Linux,2.5,979.0,3,1,3,6,6,Dedicated,2,4,3
+191,Lenovo,Netbook,11.6,4,Chrome OS,1.25,265.0,0,1,0,1,0,Unknown,1,0,3
+96,HP,Gaming,17.3,16,Windows 10,3.78,1498.0,3,1,3,6,6,Dedicated,2,3,3
+1233,Lenovo,Notebook,15.6,8,No OS,2.2,659.01,3,1,3,4,4,Dedicated,2,2,1
+526,Vero,Notebook,14.0,4,Windows 10,1.22,202.9,3,1,0,0,0,Unknown,1,0,0
+1122,Lenovo,Gaming,15.6,8,Windows 10,3.2,1399.0,3,1,3,6,6,Dedicated,2,6,3
+325,HP,Notebook,15.6,4,No OS,1.86,364.9,0,1,1,0,0,Unknown,1,2,1
+315,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,3,1,3,6,5,Dedicated,2,3,1
+554,HP,Ultrabook,15.6,8,Windows 10,1.84,1389.0,3,1,3,4,4,Unknown,1,2,3
+902,HP,Ultrabook,15.6,8,Windows 7,1.88,2171.72,3,1,3,2,4,Unknown,1,2,3
+890,Dell,Notebook,15.6,8,Windows 10,2.14,539.95,0,1,2,2,2,Unknown,1,2,1
+697,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1429.0,3,1,2,2,2,Unknown,1,2,3
+709,Asus,Gaming,15.6,16,Windows 10,2.2,2449.0,3,1,3,6,6,Dedicated,2,10,3
+130,MSI,Gaming,15.6,16,Windows 10,2.4,1294.0,3,1,3,6,6,Dedicated,2,3,3
+972,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,999.0,3,1,2,1,2,Unknown,1,2,3
+333,Dell,Gaming,17.3,32,Windows 10,4.42,3588.8,3,1,3,6,6,Dedicated,2,11,3
+1142,Dell,Notebook,15.6,4,Windows 10,2.3,585.0,3,1,2,2,2,Dedicated,0,0,1
+934,Dell,Ultrabook,13.3,16,Windows 10,1.29,2240.0,5,2,3,2,9,Unknown,1,5,3
+520,Dell,Notebook,17.3,8,Windows 10,2.8,1142.0,3,1,3,3,3,Dedicated,0,1,3
+1111,HP,Notebook,15.6,8,Windows 10,1.84,2103.34,3,1,2,1,4,Unknown,1,2,3
+256,Asus,Notebook,14.0,8,Windows 10,2.0,1334.0,3,1,3,4,4,Unknown,1,2,3
+156,Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,1670.0,3,1,2,2,2,Unknown,1,2,3
+305,Toshiba,Notebook,15.6,8,Windows 10,2.2,812.0,0,1,3,2,4,Dedicated,2,5,1
+169,Acer,Notebook,15.6,4,Chrome OS,2.2,209.0,0,1,0,0,0,Unknown,1,0,3
+1254,Dell,Gaming,17.3,16,Windows 10,4.36,3154.0,9,4,3,6,6,Dedicated,2,10,3
+1191,Dell,Notebook,15.6,8,Linux,2.2,749.01,3,1,3,4,4,Dedicated,0,0,3
+437,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,819.0,3,1,3,3,3,Unknown,1,2,1
+1177,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,2.8,2440.0,9,0,3,6,7,Unknown,1,2,3
+377,Dell,Notebook,15.6,8,Windows 10,2.0,1820.0,3,1,3,6,6,Dedicated,2,3,3
+667,Lenovo,Notebook,13.3,8,Windows 10,1.44,960.0,3,1,2,2,2,Unknown,1,2,3
+616,HP,Workstation,17.3,8,Windows 10,3.14,1907.99,3,1,3,6,6,Dedicated,2,8,1
+1103,Google,Ultrabook,12.3,8,Chrome OS,1.1,1559.0,7,0,2,4,5,Unknown,1,5,3
+2,HP,Ultrabook,14.0,8,Windows 10,1.48,2089.0,3,1,3,4,4,Unknown,1,2,3
+583,MSI,Gaming,17.3,8,Windows 10,2.7,1349.0,3,1,3,6,6,Dedicated,2,4,3
+1257,Lenovo,Notebook,14.0,8,Windows 10,1.7,1186.0,3,1,2,3,3,Unknown,1,2,3
+848,Dell,Notebook,15.6,4,Windows 10,2.18,657.0,3,1,2,2,2,Unknown,1,2,1
+112,Apple,Ultrabook,13.3,8,macOS,1.34,1158.7,3,1,2,3,3,Unknown,1,2,0
+1013,Acer,Notebook,15.6,8,Windows 10,2.2,841.0,3,1,3,3,3,Dedicated,2,2,3
+1203,Asus,Notebook,15.6,4,Linux,2.0,559.0,3,1,2,2,2,Unknown,1,2,3
+1166,Dell,Notebook,17.3,8,Windows 10,2.8,979.0,3,1,2,1,2,Dedicated,0,1,3
+435,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,2824.0,9,0,3,4,4,Unknown,1,2,3
+633,Asus,Notebook,14.0,4,Windows 10,1.5,298.0,3,1,0,0,0,Unknown,1,0,0
+43,HP,Notebook,15.6,8,Windows 10,1.86,639.0,3,1,2,2,2,Unknown,1,2,1
+825,Toshiba,Notebook,13.3,4,Windows 10,1.05,1285.0,3,1,2,2,2,Unknown,1,2,3
+329,Asus,Gaming,17.3,16,Windows 10,2.9,2122.0,3,1,3,6,6,Dedicated,2,10,3
+602,Lenovo,Notebook,15.6,8,Windows 10,1.95,1390.0,3,1,2,2,2,Unknown,1,2,3
+878,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1099.0,0,1,2,3,3,Unknown,1,2,3
+70,Lenovo,Notebook,17.3,8,Windows 10,3.4,2999.0,3,1,3,6,6,Dedicated,2,10,3
+770,Dell,Gaming,15.6,16,Windows 10,2.65,1349.0,3,1,3,6,6,Dedicated,2,4,3
+965,Dell,Notebook,15.6,8,Linux,1.98,895.01,3,1,3,4,4,Dedicated,2,3,3
+570,Acer,Notebook,14.0,4,Chrome OS,1.45,375.0,0,1,0,1,0,Unknown,1,0,0
+282,Lenovo,Notebook,14.0,2,Windows 10,1.5,229.0,0,1,0,1,0,Unknown,1,0,0
+7,HP,Notebook,15.6,8,Windows 10,1.9,1269.0,3,1,3,4,4,Dedicated,0,4,1
+120,Asus,Ultrabook,14.0,8,Windows 10,1.25,1099.0,3,1,3,3,3,Unknown,1,2,3
+189,Asus,Gaming,15.6,16,Windows 10,2.2,1449.0,3,1,3,6,6,Dedicated,2,6,3
+301,Asus,Ultrabook,14.0,16,Windows 10,1.3,1495.0,3,1,3,3,3,Dedicated,2,2,3
+490,HP,Notebook,15.6,4,No OS,1.86,393.9,0,1,2,2,2,Unknown,1,2,1
+913,Dell,Notebook,15.6,8,Linux,2.3,805.99,0,1,3,4,4,Dedicated,0,0,1
+296,HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,699.0,3,1,1,1,0,Dedicated,2,2,3
+1078,HP,Notebook,14.0,4,Windows 7,1.54,1099.99,3,1,2,3,3,Unknown,1,2,3
+577,Dell,Notebook,15.6,4,Windows 7,2.24,769.15,0,1,2,3,3,Dedicated,0,1,1
+452,Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,549.0,0,0,0,0,0,Unknown,1,0,0
+841,HP,Ultrabook,12.5,8,Windows 10,1.26,1349.0,3,1,3,2,4,Unknown,1,2,3
+356,Dell,Gaming,17.3,16,Windows 10,4.42,2799.0,9,1,3,10,10,Dedicated,2,10,3
+267,Lenovo,Notebook,15.6,8,No OS,2.2,499.0,0,1,1,0,0,Dedicated,2,1,3
+425,HP,Notebook,15.6,4,Windows 10,1.96,500.0,0,1,0,1,0,Unknown,1,0,1
+465,HP,Workstation,15.6,8,Windows 10,2.0,2249.0,3,1,3,4,9,Dedicated,2,9,3
+755,Huawei,Ultrabook,13.0,8,Windows 10,1.05,1349.0,4,1,2,2,2,Unknown,1,2,3
+754,Lenovo,Gaming,15.6,16,Windows 10,3.2,1749.0,3,1,3,6,6,Dedicated,2,6,3
+598,HP,Notebook,14.0,4,Windows 10,1.64,684.0,0,1,1,1,0,Unknown,1,2,1
+48,HP,Notebook,15.6,8,Windows 10,2.1,794.0,3,1,2,1,2,Unknown,1,2,1
+434,Acer,Notebook,14.0,4,Windows 10,1.8,636.0,3,1,1,1,0,Unknown,1,2,3
+328,Toshiba,Notebook,15.6,8,Windows 10,2.2,1399.0,3,1,3,2,4,Unknown,1,2,3
+1051,Samsung,Netbook,11.6,4,Chrome OS,1.15,269.0,0,1,0,1,0,Unknown,1,0,0
+248,Toshiba,Notebook,15.6,4,Windows 10,2.1,447.0,0,1,1,0,0,Unknown,1,2,1
+100,Dell,Notebook,14.0,8,Windows 10,1.6,1119.0,3,1,2,2,2,Unknown,1,2,3
+575,Lenovo,Notebook,15.6,4,No OS,1.9,368.0,0,1,1,0,0,Dedicated,0,0,1
+561,Dell,Notebook,15.6,8,Linux,2.2,677.35,3,1,2,1,2,Dedicated,0,1,3
+814,Lenovo,Notebook,15.6,8,Windows 10,2.3,1349.0,3,1,2,3,3,Unknown,1,2,3
+1028,Lenovo,Notebook,14.0,8,No OS,1.7,599.0,3,1,1,4,1,Unknown,1,2,3
+453,Lenovo,Gaming,15.6,8,Windows 10,2.5,1189.0,3,1,3,6,6,Dedicated,2,6,3
+68,Dell,Notebook,15.6,4,Linux,2.18,443.9,0,1,1,0,0,Unknown,1,2,1
+729,Dell,Gaming,15.6,8,Windows 10,2.65,999.0,3,1,2,2,2,Dedicated,2,3,1
+759,Toshiba,Notebook,14.0,4,Windows 10,1.47,1105.0,3,1,2,3,3,Unknown,1,2,3
+359,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,999.0,3,1,2,2,2,Unknown,1,2,3
+493,Lenovo,Ultrabook,14.0,24,Windows 10,1.32,2382.0,9,1,3,4,4,Unknown,1,2,3
+692,Apple,Ultrabook,15.4,16,macOS,1.83,2439.97,9,3,3,6,9,Dedicated,0,9,3
+24,MSI,Gaming,17.3,16,Windows 10,2.7,1492.8,3,1,3,6,6,Dedicated,2,4,3
+856,Dell,Workstation,15.6,16,Windows 10,2.8,3055.0,9,4,4,0,10,Dedicated,2,8,3
+704,Dell,Notebook,15.6,2,Windows 10,2.2,379.0,0,1,0,1,0,Unknown,1,0,1
+1171,Lenovo,Notebook,15.6,4,Windows 10,2.1,540.0,0,1,2,3,3,Unknown,1,2,1
+354,Asus,Gaming,17.3,16,Windows 10,2.9,1407.0,3,1,3,6,6,Dedicated,2,3,3
+590,Dell,Gaming,15.6,16,Windows 10,3.21,2774.63,3,1,3,6,6,Dedicated,2,10,3
+413,Lenovo,Notebook,15.6,4,Windows 10,1.8,829.0,3,1,2,1,2,Unknown,1,2,3
+1157,Dell,Notebook,15.6,4,Linux,2.2,485.0,3,1,1,0,0,Dedicated,0,0,3
+0,Dell,Ultrabook,13.3,8,Windows 10,1.3,1268.0,5,2,3,2,4,Unknown,1,2,3
+626,MSI,Gaming,17.3,8,Windows 10,2.7,1486.77,3,1,3,6,6,Dedicated,2,6,3
+677,HP,Notebook,14.0,8,Windows 10,1.63,988.0,3,1,3,3,3,Unknown,1,2,3
+637,Dell,Ultrabook,13.3,8,Windows 10,1.4,955.0,3,1,3,3,3,Dedicated,0,1,3
+1211,HP,Notebook,15.6,4,Windows 10,2.31,705.15,0,1,1,3,1,Unknown,1,2,1
+245,Dell,Workstation,15.6,8,Windows 10,2.23,1993.0,3,1,4,0,10,Dedicated,2,7,1
+1094,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,3,1,3,2,4,Unknown,1,2,3
+388,Dell,Notebook,15.6,16,Windows 10,2.06,1899.0,3,1,3,6,6,Dedicated,2,3,3
+1280,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1079.0,3,1,3,4,4,Unknown,1,2,3
+593,Acer,Notebook,15.6,4,Windows 10,2.2,613.0,3,1,2,1,2,Dedicated,2,2,1
+352,Asus,Gaming,17.3,8,Windows 10,3.2,1299.0,3,1,3,0,5,Dedicated,0,5,3
+955,Dell,Notebook,15.6,4,Windows 10,2.2,498.9,3,1,1,0,0,Dedicated,0,0,3
+713,Lenovo,Notebook,14.0,8,Windows 10,1.9,938.0,3,1,2,2,2,Unknown,1,2,3
+379,HP,Notebook,15.6,8,Windows 10,2.1,716.0,3,1,1,1,0,Dedicated,2,3,1
+16,HP,Notebook,13.3,4,Windows 10,1.49,719.0,3,1,1,1,0,Unknown,1,2,3
+1005,HP,Notebook,15.6,8,Windows 10,1.84,1228.99,3,1,3,2,4,Unknown,1,2,3
+1053,Lenovo,Notebook,15.6,4,Windows 10,2.2,349.0,3,1,0,0,0,Unknown,1,0,3
+669,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1349.0,3,1,3,4,4,Unknown,1,2,3
+402,Dell,Notebook,15.6,16,Windows 10,2.32,989.99,3,1,3,4,4,Dedicated,0,2,1
+849,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1163.0,4,3,3,0,4,Unknown,1,3,0
+323,Apple,Ultrabook,13.3,8,macOS,1.37,1803.6,7,3,2,8,7,Unknown,1,7,3
+615,HP,Notebook,13.3,4,Chrome OS,1.29,615.0,5,2,0,0,0,Unknown,1,4,0
+389,Lenovo,Notebook,15.6,8,Windows 10,2.3,830.0,3,1,2,2,2,Unknown,1,2,3
+1084,Lenovo,Notebook,15.6,8,Windows 10,2.1,1144.5,3,1,2,1,2,Dedicated,0,3,3
+1261,MSI,Gaming,15.6,16,Windows 10,2.8,2099.0,3,1,3,6,6,Dedicated,2,10,3
+562,Dell,Notebook,17.3,8,Linux,2.83,865.0,3,1,3,4,4,Dedicated,0,2,1
+768,Lenovo,Notebook,13.3,4,Windows 10,1.5,549.0,3,1,1,1,0,Unknown,1,2,3
+164,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,2099.0,9,4,3,3,3,Unknown,1,2,3
+525,Lenovo,Notebook,14.0,4,Chrome OS,1.5,325.0,0,1,0,1,0,Unknown,1,0,0
+134,Dell,Gaming,15.6,16,Windows 10,2.65,1499.0,3,1,3,6,6,Dedicated,2,6,3
+743,Asus,Gaming,15.6,8,Windows 10,2.3,1649.0,3,1,2,2,2,Dedicated,2,6,3
+821,Lenovo,Notebook,15.6,4,Windows 10,2.2,499.0,3,1,1,0,0,Unknown,1,2,3
+836,Toshiba,Notebook,15.6,16,Windows 10,2.4,1975.0,3,1,3,6,7,Dedicated,2,5,3
+824,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,479.0,0,0,0,1,0,Unknown,1,0,1
+464,Toshiba,Notebook,14.0,8,Windows 10,1.95,1180.0,3,1,2,3,3,Unknown,1,2,3
+410,Dell,Notebook,15.6,16,Windows 10,2.3,1181.27,3,1,3,4,4,Dedicated,0,2,3
+1302,Lenovo,Notebook,15.6,8,Windows 10,2.1,1229.56,3,1,3,3,3,Dedicated,0,3,3
+129,HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,684.8,0,0,2,2,2,Unknown,1,2,1
+700,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,1669.0,3,1,3,2,4,Unknown,1,2,3
+127,Lenovo,Notebook,15.6,4,Windows 10,1.85,779.0,3,1,3,4,4,Unknown,1,2,1
+1228,Asus,Ultrabook,15.6,16,Windows 10,1.63,1468.0,3,1,3,4,4,Dedicated,2,2,3
+203,Vero,Notebook,14.0,4,Windows 10,1.3,260.0,3,1,0,0,0,Unknown,1,0,0
+262,HP,Ultrabook,12.5,8,Windows 10,1.26,1335.0,3,1,3,4,4,Unknown,1,2,3
+883,Dell,Gaming,17.3,32,Windows 10,4.42,2800.0,3,1,3,6,5,Dedicated,2,10,3
+976,Lenovo,Ultrabook,14.0,16,Windows 10,1.7,2299.0,3,1,3,4,4,Unknown,1,2,3
+484,Acer,Gaming,17.3,16,Windows 10,4.2,2599.0,3,1,3,6,6,Dedicated,2,10,3
+148,Lenovo,Workstation,15.6,16,Windows 10,2.3,2445.0,9,4,3,6,6,Dedicated,2,2,3
+893,HP,Notebook,15.6,4,Windows 10,2.1,689.0,3,1,3,4,4,Dedicated,0,1,1
+798,Acer,Notebook,15.6,4,Windows 10,2.1,395.0,0,1,1,0,0,Dedicated,0,0,1
+219,Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,375.0,0,0,0,0,0,Unknown,1,0,0
+969,Lenovo,Notebook,15.6,8,No OS,2.2,549.0,3,1,2,2,2,Unknown,1,2,3
+1046,Acer,Notebook,15.6,4,Windows 10,2.23,544.0,3,1,1,0,0,Dedicated,2,2,1
+252,Dell,Gaming,15.6,16,Windows 10,2.59,879.01,3,1,3,6,5,Dedicated,2,3,1
+796,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,1499.0,3,1,3,3,3,Unknown,1,2,3
+220,Dell,Notebook,15.6,32,Windows 10,2.06,2639.0,9,4,3,6,6,Dedicated,2,3,3
+882,HP,Notebook,17.3,16,Windows 10,2.5,1271.0,3,1,3,3,3,Dedicated,2,3,3
+1016,MSI,Gaming,15.6,8,Windows 10,2.4,1199.0,3,1,2,2,2,Dedicated,2,3,3
+403,Acer,Notebook,15.6,4,Windows 10,2.1,426.0,0,1,1,0,0,Dedicated,0,0,3
+292,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1799.0,3,1,2,2,2,Unknown,1,2,3
+571,Lenovo,Ultrabook,14.0,8,Windows 7,1.7,1499.0,3,1,3,6,7,Unknown,1,2,3
+360,Lenovo,Notebook,15.6,4,No OS,2.2,444.0,3,1,1,0,0,Unknown,1,2,3
+1026,Acer,Notebook,15.6,8,Linux,2.4,779.0,3,1,3,6,6,Dedicated,2,3,1
+141,Samsung,Ultrabook,13.3,8,Windows 10,1.31,1599.0,3,1,3,4,4,Unknown,1,2,3
+1065,Toshiba,Notebook,15.6,4,Windows 10,2.0,489.0,0,1,1,1,0,Unknown,1,2,1
+471,Dell,Notebook,15.6,8,Windows 10,2.2,797.41,3,1,2,1,2,Dedicated,0,1,3
+1017,Asus,Gaming,17.3,16,Windows 10,2.73,2049.9,3,1,3,6,6,Dedicated,2,6,3
+600,Dell,Notebook,15.6,4,Windows 10,1.8,309.0,0,1,0,1,0,Unknown,1,0,1
+1011,Acer,Netbook,11.6,2,Chrome OS,1.3,174.0,0,1,0,0,0,Unknown,1,0,3
+643,Asus,Ultrabook,13.3,16,Windows 10,1.1,1748.9,3,1,3,4,4,Unknown,1,2,3
+553,Dell,Ultrabook,13.3,4,Windows 10,1.4,818.35,3,1,2,1,2,Dedicated,0,1,3
+1086,Lenovo,Notebook,15.6,4,No OS,2.2,359.99,0,1,0,0,0,Unknown,1,0,1
+1059,Dell,Notebook,15.6,4,Linux,2.18,569.0,3,1,2,2,2,Dedicated,0,0,3
+288,HP,Notebook,13.3,4,Windows 10,1.49,726.0,3,1,2,1,2,Unknown,1,2,3
+230,HP,Notebook,15.6,4,Windows 10,1.86,297.0,0,1,0,3,0,Dedicated,0,0,1
+611,HP,Notebook,13.3,4,Windows 10,1.49,800.0,0,1,1,1,0,Unknown,1,2,1
+911,HP,Notebook,15.6,4,Windows 10,2.1,330.0,0,1,0,0,0,Dedicated,0,0,1
+1212,HP,Notebook,15.6,8,Windows 10,1.84,1219.0,3,1,3,4,4,Unknown,1,2,3
+1139,Lenovo,Notebook,15.6,8,No OS,2.2,685.0,3,1,3,4,4,Dedicated,2,1,1
+1226,Dell,Notebook,14.0,8,Windows 10,1.6,859.0,3,1,2,2,2,Unknown,1,2,3
+418,HP,Notebook,13.3,8,Windows 10,1.11,1149.0,3,1,2,2,2,Unknown,1,2,3
+162,Asus,Notebook,14.0,4,Windows 10,1.63,299.0,0,1,0,0,0,Unknown,1,0,0
+49,Mediacom,2 in 1 Convertible,11.6,4,Windows 10,1.16,299.0,3,1,0,0,0,Unknown,1,0,3
+980,HP,Notebook,15.6,4,No OS,2.1,349.0,3,1,1,0,0,Unknown,1,2,1
+970,MSI,Gaming,15.6,16,Windows 10,2.94,1819.0,3,1,3,6,5,Dedicated,2,6,3
+367,HP,Notebook,15.6,8,Windows 10,1.86,690.0,3,1,2,2,2,Unknown,1,2,3
+239,HP,Notebook,15.6,4,No OS,1.86,344.99,3,1,1,0,0,Unknown,1,2,1
+778,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.27,2339.0,9,0,3,2,4,Unknown,1,2,3
+17,Dell,Notebook,15.6,4,Linux,2.09,523.63,0,1,2,3,3,Unknown,1,2,1
+784,Dell,Ultrabook,12.5,8,Windows 7,1.5,1413.1,0,1,2,3,3,Unknown,1,2,3
+1121,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1315.0,3,1,2,1,2,Unknown,1,2,3
+422,Asus,Netbook,11.6,2,Windows 10,0.98,191.9,0,1,0,0,0,Unknown,1,0,0
+1042,HP,Gaming,17.3,12,Windows 10,3.35,1999.0,3,1,3,6,6,Dedicated,2,10,3
+842,Dell,Notebook,15.6,8,Windows 10,2.06,1749.0,9,4,2,2,2,Dedicated,2,3,3
+1260,Lenovo,Notebook,15.6,4,Windows 10,2.1,489.9,0,1,1,0,0,Unknown,1,2,1
+460,HP,Workstation,15.6,8,Windows 10,3.14,2064.9,3,1,3,6,6,Dedicated,2,8,3
+985,Asus,Notebook,15.6,6,Windows 10,2.0,577.0,3,1,1,1,0,Dedicated,2,1,3
+614,MSI,Gaming,15.6,16,Windows 10,1.91,2153.37,3,1,3,6,5,Dedicated,2,8,3
+176,Fujitsu,Notebook,15.6,8,Windows 10,2.2,799.0,0,1,2,2,2,Unknown,1,2,3
+167,Microsoft,Ultrabook,13.5,8,Windows 10 S,1.252,1340.0,4,0,2,2,2,Unknown,1,2,3
+78,Lenovo,Notebook,15.6,4,Windows 10,2.2,344.0,3,1,0,0,0,Unknown,1,0,1
+1201,Lenovo,Gaming,15.6,8,No OS,2.4,1149.0,3,1,3,6,6,Dedicated,2,6,3
+676,Asus,Gaming,17.3,16,Windows 10,3.6,2999.0,3,1,3,10,10,Dedicated,2,12,3
+1131,Asus,Notebook,14.0,8,Windows 10,2.0,945.0,3,1,2,2,2,Unknown,1,2,3
+1220,Lenovo,Gaming,15.6,8,Windows 10,2.6,1272.0,3,1,3,6,5,Dedicated,2,3,3
+511,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0,1,0,1,0,Unknown,1,0,0
+1050,Lenovo,Notebook,15.6,6,Windows 10,2.4,569.0,3,1,1,3,1,Dedicated,2,1,3
+574,Apple,Ultrabook,13.3,8,macOS,1.37,1518.55,7,3,2,3,5,Unknown,1,5,3
+1108,Asus,Gaming,17.3,16,Windows 10,4.3,2299.0,3,1,3,6,5,Dedicated,2,10,3
+331,Asus,Gaming,17.3,16,Windows 10,2.99,1749.0,3,1,3,6,6,Dedicated,2,4,3
+380,Acer,Notebook,15.6,4,Windows 10,2.1,599.0,0,1,2,2,2,Unknown,1,2,3
+94,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1358.0,3,1,2,2,2,Unknown,1,2,3
+1091,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2499.0,3,1,3,4,4,Unknown,1,2,3
+533,Toshiba,Notebook,15.6,4,Windows 10,2.1,498.0,0,1,1,0,1,Unknown,1,2,3
+1093,Lenovo,Notebook,15.6,4,No OS,2.2,369.0,0,1,1,0,0,Unknown,1,2,3
+31,HP,Ultrabook,15.6,8,Windows 10,1.83,699.0,3,1,3,3,3,Dedicated,2,0,3
+522,Asus,Ultrabook,14.0,8,Windows 10,1.25,1049.0,3,1,3,4,4,Unknown,1,2,3
+470,Asus,Notebook,15.6,8,Windows 10,2.0,581.9,3,1,0,0,0,Unknown,1,0,3
+950,Dell,Notebook,15.6,16,Linux,2.36,899.0,3,1,3,4,4,Dedicated,0,2,3
+1165,Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,1159.0,3,1,3,4,3,Unknown,1,4,0
+1170,HP,Workstation,17.3,8,Windows 7,3.0,3949.4,3,1,3,6,5,Dedicated,2,11,3
+735,Dell,Workstation,15.6,16,Windows 10,2.17,1975.0,3,1,3,4,9,Dedicated,2,7,3
+523,Lenovo,Notebook,14.0,8,Windows 10,1.58,1480.0,3,1,3,4,4,Unknown,1,2,3
+681,Lenovo,Notebook,15.6,8,No OS,2.32,599.0,3,1,2,3,3,Dedicated,0,1,1
+694,Samsung,Ultrabook,13.3,16,Windows 10,0.81,1649.0,3,1,3,4,4,Unknown,1,2,3
+728,Apple,Ultrabook,12.0,8,macOS,0.92,1262.4,4,3,3,4,4,Unknown,1,5,3
+932,HP,Notebook,17.3,8,Windows 10,2.5,896.0,3,1,2,1,2,Dedicated,2,3,1
+873,Asus,Gaming,15.6,8,Windows 10,2.5,999.0,3,1,3,6,6,Dedicated,2,3,3
+144,HP,Notebook,17.3,8,Windows 10,2.5,914.0,3,1,2,1,2,Dedicated,2,3,1
+378,Lenovo,Notebook,15.6,6,Windows 10,2.4,564.0,3,1,2,2,2,Unknown,1,2,1
+982,HP,Notebook,15.6,8,Windows 10,2.04,559.0,0,0,2,2,2,Unknown,1,2,1
+341,Lenovo,Notebook,15.6,4,Windows 10,2.2,799.0,3,1,3,4,4,Dedicated,2,1,1
+311,Asus,Gaming,17.3,16,Windows 10,3.2,1549.0,3,1,3,0,5,Dedicated,0,5,3
+953,HP,Notebook,17.3,8,Windows 10,2.63,910.0,1,1,2,2,2,Dedicated,2,3,1
+232,HP,Notebook,15.6,6,Windows 10,2.04,539.0,3,1,1,0,0,Dedicated,0,0,1
+983,Lenovo,Notebook,15.6,4,No OS,1.9,270.62,0,1,0,0,0,Unknown,1,0,3
+165,Lenovo,Notebook,17.3,8,Windows 10,3.0,659.0,1,1,2,3,3,Dedicated,0,1,1
+538,Lenovo,Notebook,15.6,4,Windows 10,2.1,621.45,3,1,2,2,2,Unknown,1,2,1
+1096,HP,Notebook,13.3,8,Windows 10,1.49,959.0,3,1,2,1,2,Unknown,1,2,3
+449,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1499.0,3,1,3,3,3,Unknown,1,2,3
+1290,HP,Notebook,17.3,8,Windows 10,2.54,489.0,1,1,1,0,0,Unknown,1,2,1
+665,Lenovo,Notebook,15.6,4,No OS,1.9,252.36,0,1,0,0,0,Unknown,1,0,1
+693,Lenovo,Notebook,15.6,8,Windows 10,1.9,813.0,3,1,2,2,2,Unknown,0,2,3
+270,Dell,Notebook,15.6,4,Windows 10,2.2,545.67,0,1,1,0,0,Dedicated,0,0,1
+519,HP,Gaming,15.6,8,Windows 10,2.2,1099.0,3,1,3,6,6,Dedicated,2,3,3
+710,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,1760.0,3,1,2,6,4,Unknown,1,2,3
+236,HP,Notebook,14.0,8,Windows 10,1.63,860.0,3,1,2,1,2,Unknown,1,2,3
+1194,Dell,Notebook,15.6,8,Linux,2.14,735.07,3,1,3,3,3,Dedicated,0,1,3
+1075,Vero,Notebook,14.0,2,Windows 10,1.45,210.8,0,1,0,0,0,Unknown,1,0,0
+498,HP,Gaming,17.3,8,Windows 10,3.35,1129.0,3,1,2,3,3,Dedicated,2,6,3
+135,Asus,Notebook,15.6,8,Windows 10,2.0,1224.0,3,1,3,4,4,Unknown,1,2,3
+1241,Lenovo,Notebook,17.3,6,Windows 10,2.8,649.0,1,1,2,2,2,Dedicated,2,1,1
+67,HP,Ultrabook,12.5,4,Windows 10,1.26,1579.0,3,1,2,3,3,Unknown,1,2,1
+964,Asus,Notebook,15.6,4,Linux,2.0,224.0,0,1,0,0,0,Unknown,1,0,1
+39,Dell,Notebook,15.6,8,Windows 10,2.33,899.0,3,1,3,4,4,Dedicated,0,2,3
+703,HP,Notebook,15.6,6,Windows 10,1.91,619.0,3,1,2,1,2,Dedicated,0,1,3
+568,Dell,Ultrabook,12.5,8,Windows 10,1.36,1472.2,3,1,2,2,2,Unknown,1,0,3
+563,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,1499.0,3,1,2,2,2,Unknown,1,2,3
+591,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,959.0,3,1,2,2,2,Dedicated,0,2,3
+921,Dell,Notebook,15.6,8,Windows 10,2.2,985.0,3,1,3,3,3,Dedicated,0,1,3
+481,Asus,Gaming,17.3,12,Linux,3.0,949.0,3,1,3,6,6,Dedicated,2,4,1
+1140,Toshiba,Notebook,15.6,8,Windows 10,2.0,1064.0,3,1,2,2,2,Unknown,1,2,1
+249,Dell,Workstation,15.6,8,Windows 10,1.78,2408.0,3,1,3,6,6,Dedicated,2,8,3
+510,Acer,Ultrabook,14.0,8,Windows 10,1.6,884.0,3,1,3,3,3,Unknown,1,2,3
+455,Dell,Notebook,15.6,8,Windows 10,2.3,469.01,0,0,1,1,0,Unknown,1,2,1
+767,Toshiba,Ultrabook,12.5,8,Windows 10,1.1,1790.0,3,1,3,4,4,Unknown,1,2,3
+225,Lenovo,Notebook,15.6,4,Windows 10,2.1,429.0,0,1,1,0,0,Unknown,1,2,3
+963,Dell,Notebook,13.3,4,Windows 10,1.65,849.0,0,1,1,0,0,Unknown,1,2,1
+208,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,638.0,3,1,3,2,4,Unknown,1,2,3
+150,Asus,Notebook,15.6,4,Windows 10,2.0,586.19,0,1,2,2,2,Unknown,1,2,3
+850,HP,Notebook,15.6,4,Windows 10,1.63,689.0,0,1,1,0,0,Unknown,1,2,3
+196,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1034.0,3,1,2,2,2,Unknown,1,2,3
+1031,HP,Notebook,15.6,4,Windows 10,2.04,685.0,3,1,1,1,0,Unknown,1,2,1
+597,MSI,Gaming,14.0,16,Windows 10,1.7,1769.0,3,1,3,6,5,Dedicated,2,8,3
+105,HP,Notebook,15.6,8,Windows 10,2.04,846.5,0,1,2,2,2,Dedicated,2,3,1
+646,Lenovo,Notebook,15.6,4,Windows 10,2.2,409.0,3,1,1,0,0,Unknown,1,2,1
+843,Asus,Notebook,15.6,4,Linux,2.0,398.99,0,1,0,0,0,Unknown,1,0,1
+303,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,869.01,3,1,3,3,3,Unknown,1,2,3
+1,Dell,Notebook,15.6,4,Windows 10,2.06,481.98,0,1,1,3,1,Unknown,1,2,1
+815,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0,1,1,1,0,Unknown,1,2,1
+444,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,928.0,3,1,2,2,2,Unknown,1,2,3
+1149,Lenovo,Notebook,13.3,8,Windows 10,1.4,949.0,3,1,1,1,0,Unknown,1,2,3
+678,HP,Notebook,17.3,16,Windows 10,2.9,1059.0,3,1,3,3,3,Dedicated,2,2,1
+271,Lenovo,Notebook,15.6,16,Windows 10,2.5,1099.0,3,1,3,2,4,Dedicated,0,3,2
+607,MSI,Gaming,15.6,16,Windows 10,1.8,2094.48,3,1,3,6,6,Dedicated,2,6,3
+731,Dell,Notebook,15.6,16,Windows 10,2.06,2397.0,9,4,3,6,6,Dedicated,2,3,3
+642,Asus,Gaming,17.3,8,Windows 10,3.0,1187.0,3,1,3,6,6,Dedicated,2,3,1
+121,Dell,Gaming,15.6,8,Windows 10,2.65,1195.0,3,1,2,2,2,Dedicated,2,6,3
+499,Asus,Gaming,17.3,8,Windows 10,3.0,938.0,3,1,2,2,2,Dedicated,2,3,3
+997,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,0,1,3,2,4,Dedicated,2,1,1
+1270,Dell,Gaming,15.6,8,Windows 10,2.56,819.0,3,1,2,2,2,Dedicated,2,3,1
+1301,Dell,Notebook,15.6,8,Windows 10,2.06,955.0,3,1,2,2,2,Unknown,1,2,1
+344,Dell,Gaming,15.6,8,Windows 10,2.62,1498.0,9,4,3,6,6,Dedicated,2,4,3
+748,Dell,Notebook,15.6,16,Windows 10,2.06,2399.0,9,4,3,6,6,Dedicated,2,3,3
+786,HP,Notebook,17.3,8,Windows 10,2.5,639.9,1,1,1,0,0,Unknown,1,2,3
+163,Lenovo,Gaming,15.6,8,Windows 10,2.4,819.0,3,1,2,2,2,Dedicated,2,3,1
+187,Asus,Notebook,15.6,8,Windows 10,2.37,749.0,3,1,2,2,2,Unknown,1,2,1
+550,Dell,Notebook,15.6,4,Windows 10,2.29,490.0,0,1,1,0,0,Unknown,1,2,1
+696,HP,Notebook,15.6,4,Windows 10,1.86,369.0,0,1,0,2,0,Dedicated,0,0,3
+1294,HP,Notebook,15.6,4,Windows 10,1.86,485.0,0,1,2,2,2,Unknown,1,2,1
+1113,Asus,Ultrabook,15.6,16,Windows 10,1.8,1983.0,3,1,3,6,6,Dedicated,2,4,3
+1186,HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,615.0,0,0,0,0,0,Unknown,1,0,0
+174,Dell,Notebook,15.6,16,Windows 10,1.93,1426.66,3,1,2,6,4,Unknown,1,2,3
+1195,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1629.0,3,1,2,1,4,Unknown,1,2,3
+576,Acer,Notebook,15.6,4,Windows 10,2.4,410.8,0,1,1,0,0,Unknown,1,2,1
+57,HP,Notebook,15.6,4,Windows 10,1.86,398.99,3,1,0,1,0,Unknown,1,0,3
+569,Toshiba,Notebook,13.3,8,Windows 10,1.5,1210.0,0,1,2,3,3,Unknown,1,2,3
+10,Asus,Gaming,17.3,16,Windows 10,2.73,1799.0,3,1,3,6,5,Dedicated,2,6,3
+1038,Dell,Notebook,17.3,8,Linux,2.8,1099.0,3,1,3,3,3,Dedicated,0,1,3
+699,Lenovo,Notebook,14.0,4,Windows 10,2.1,299.0,0,1,0,0,0,Unknown,1,0,1
+458,HP,Notebook,14.0,4,Windows 10,1.48,1099.99,0,1,2,1,4,Unknown,1,2,3
+244,MSI,Gaming,17.3,8,Windows 10,2.7,1199.0,3,1,3,6,6,Dedicated,2,4,3
+738,HP,Netbook,11.6,2,Windows 10,1.17,209.0,0,1,0,1,0,Unknown,1,0,0
+37,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0,1,1,1,0,Unknown,1,2,1
+732,HP,Notebook,15.6,6,Windows 10,2.04,579.0,0,1,3,4,4,Unknown,1,2,1
+1173,Lenovo,Notebook,14.0,8,Windows 10,1.75,1116.02,3,1,2,1,2,Dedicated,0,3,3
+113,HP,Notebook,17.3,8,Windows 10,2.63,1200.0,3,1,3,4,4,Dedicated,2,3,3
+1146,Dell,Notebook,15.6,8,Windows 10,2.02,1142.4,3,1,3,3,3,Dedicated,0,1,3
+1100,Acer,Notebook,15.6,8,Windows 10,2.4,799.0,3,1,2,2,2,Dedicated,2,2,3
+407,Lenovo,Notebook,14.0,8,No OS,1.5,799.0,3,1,3,4,4,Dedicated,0,2,3
+1256,HP,Notebook,15.6,8,Windows 10,1.91,979.0,3,1,3,4,4,Dedicated,2,2,1
+269,Dell,Notebook,15.6,4,Windows 7,2.24,737.0,0,1,2,3,3,Unknown,1,2,1
+404,Acer,Notebook,15.6,4,Linux,2.4,289.0,0,1,0,1,0,Unknown,1,0,1
+897,Lenovo,Notebook,14.0,8,Windows 10,1.75,1049.0,3,1,2,1,2,Unknown,1,2,3
+436,HP,Workstation,15.6,8,Windows 10,2.31,1534.0,3,1,3,10,5,Unknown,1,2,3
+717,Asus,Ultrabook,15.6,8,Windows 10,1.7,977.0,3,1,2,2,2,Dedicated,2,2,3
+595,Dell,Notebook,15.6,4,Linux,2.2,324.0,0,1,0,1,0,Unknown,1,0,1
+276,Asus,Ultrabook,13.3,8,Windows 10,1.45,1280.0,3,1,3,2,4,Unknown,1,2,3
+812,Google,Ultrabook,12.3,16,Chrome OS,1.1,2199.0,7,0,3,6,7,Unknown,1,5,3
+497,Dell,Notebook,15.6,4,Linux,2.2,274.9,0,1,0,1,0,Unknown,1,0,1
+85,Dell,Notebook,17.3,8,Linux,2.8,889.0,3,1,2,1,2,Dedicated,0,1,3
+557,HP,Notebook,17.3,8,Windows 10,2.5,977.0,3,1,2,1,2,Dedicated,2,3,3
+757,Lenovo,Notebook,15.6,8,Windows 10,2.3,1011.99,3,1,2,2,2,Dedicated,2,2,3
+564,Dell,Notebook,15.6,8,Windows 10,2.36,889.0,3,1,2,2,2,Dedicated,0,2,3
+895,Acer,Notebook,15.6,4,Windows 10,2.23,616.0,3,1,2,2,2,Dedicated,2,2,1
+365,HP,Ultrabook,12.5,4,Windows 10,1.26,1559.0,0,1,2,2,2,Unknown,1,2,3
+769,Lenovo,Notebook,14.0,8,Windows 7,1.7,1199.0,3,1,2,3,3,Unknown,1,2,3
+324,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,847.0,3,1,2,1,2,Unknown,1,2,3
+844,Samsung,Ultrabook,13.3,8,Windows 10,0.81,1499.0,3,1,2,2,2,Unknown,1,2,3
+924,Dell,Notebook,15.6,8,Windows 10,2.2,919.0,3,1,3,3,3,Dedicated,0,1,3
+221,MSI,Gaming,17.3,16,Windows 10,2.9,2029.0,3,1,3,6,6,Dedicated,2,10,3
+348,Dell,Ultrabook,13.3,8,Windows 10,1.21,1949.0,9,4,3,3,3,Unknown,1,2,3
+229,Acer,Notebook,15.6,6,Windows 10,2.1,409.0,0,1,1,0,0,Dedicated,0,0,1
+168,Dell,Notebook,15.6,8,Windows 10,2.18,795.0,3,1,2,2,2,Unknown,1,2,3
+74,Apple,Ultrabook,15.4,16,macOS,1.83,2537.45,9,3,3,4,10,Dedicated,0,10,3
+405,Lenovo,Gaming,15.6,16,Windows 10,2.4,1199.0,3,1,3,6,6,Dedicated,2,4,3
+760,Lenovo,Notebook,15.6,8,Windows 10,2.05,739.0,3,1,2,1,2,Unknown,1,2,3
+941,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1499.0,9,4,2,1,2,Unknown,1,2,3
+868,Dell,Gaming,15.6,16,Windows 10,3.49,2813.75,3,1,3,10,10,Dedicated,2,10,3
+65,Lenovo,Notebook,15.6,4,Windows 10,2.4,609.0,3,1,2,2,2,Dedicated,2,1,1
+314,MSI,Gaming,15.6,8,Windows 10,2.4,1229.0,3,1,3,6,5,Dedicated,2,3,3
+1034,Lenovo,Notebook,14.0,4,Windows 10,1.7,699.0,3,1,2,2,2,Unknown,1,2,3
+1114,Dell,Gaming,15.6,8,Windows 10,2.56,1060.49,3,1,3,6,6,Dedicated,2,3,3
+1175,Lenovo,Notebook,15.6,8,Windows 10,1.99,1729.0,3,1,3,4,4,Unknown,1,2,3
+321,Lenovo,Notebook,15.6,4,Windows 10,2.1,493.0,0,1,2,3,3,Unknown,1,2,3
+467,HP,Notebook,14.0,4,Windows 10,1.54,1000.0,3,1,2,3,3,Unknown,1,2,1
+1022,Dell,Ultrabook,13.3,16,Windows 10,1.21,2499.0,9,4,3,3,3,Unknown,1,2,3
+629,Lenovo,Notebook,15.6,6,Windows 10,2.2,579.0,3,1,2,2,2,Unknown,1,2,3
+433,Lenovo,Gaming,15.6,8,Windows 10,2.5,1048.0,3,1,3,6,6,Dedicated,2,3,3
+1169,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1499.0,5,2,3,2,4,Unknown,1,2,3
+741,Dell,Ultrabook,13.3,8,Windows 10,1.29,1477.0,5,2,3,4,4,Unknown,1,2,3
+131,Asus,Gaming,15.6,8,Windows 10,2.45,699.0,3,1,2,0,1,Dedicated,0,1,1
+1035,Asus,Notebook,15.6,4,Windows 10,2.0,344.0,3,1,0,0,0,Unknown,1,0,1
+1130,Dell,Notebook,15.6,4,Windows 10,1.9,825.0,0,1,2,2,2,Unknown,1,2,1
+787,Asus,Gaming,17.3,8,Windows 10,2.7,1599.0,3,1,3,6,6,Dedicated,2,6,3
+1092,Asus,Notebook,15.6,4,Windows 10,2.0,349.0,0,1,0,3,0,Dedicated,0,0,1
+1058,Acer,Notebook,15.6,12,Windows 10,2.4,1009.0,3,1,2,2,2,Dedicated,2,2,3
+1132,HP,Notebook,15.6,6,Windows 10,2.19,764.0,0,1,3,2,4,Dedicated,0,1,1
+335,Asus,Gaming,15.6,16,Windows 10,2.34,2325.0,3,1,3,6,5,Dedicated,2,10,3
+847,Lenovo,Notebook,17.3,4,Windows 10,2.79,589.0,1,1,2,2,2,Dedicated,2,1,1
+999,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,2282.0,9,1,3,4,4,Unknown,1,2,3
+1275,Acer,Notebook,13.3,4,Windows 10,1.6,655.0,0,1,2,3,3,Unknown,1,2,3
+1079,Microsoft,Ultrabook,13.5,4,Windows 10 S,1.252,989.0,4,0,3,0,2,Unknown,1,5,3
+3,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1700.0,3,1,2,2,2,Unknown,1,2,3
+107,Lenovo,Notebook,15.6,4,Windows 10,2.2,309.0,0,1,0,0,0,Unknown,1,0,1
+119,Lenovo,Notebook,15.6,8,Windows 10,2.29,459.0,0,1,1,3,1,Unknown,1,2,1
+393,HP,Gaming,15.6,8,Windows 10,2.62,899.0,3,1,3,6,6,Dedicated,2,3,1
+1120,Lenovo,Notebook,15.6,8,Windows 10,2.6,899.0,3,1,3,6,5,Dedicated,2,3,1
+58,Dell,Ultrabook,13.3,8,Windows 10,1.23,1399.0,3,1,2,1,2,Unknown,1,2,3
+594,Apple,Ultrabook,13.3,8,macOS,1.37,1958.9,7,3,2,10,7,Unknown,1,7,3
+864,Dell,Notebook,15.6,8,Windows 10,2.18,836.0,3,1,2,2,2,Unknown,1,2,1
+11,Lenovo,Notebook,14.0,2,Windows 10,1.42,249.0,0,1,0,1,0,Unknown,1,0,0
+274,HP,Notebook,14.0,4,Windows 10,1.64,779.0,0,1,2,2,2,Unknown,1,2,1
+442,Dell,Ultrabook,13.3,8,Windows 10,1.29,1458.0,3,1,3,4,4,Unknown,1,2,3
+686,Dell,Notebook,15.6,4,Windows 10,2.3,499.0,0,1,1,0,0,Dedicated,0,0,3
+1243,Dell,Ultrabook,13.3,8,Windows 10,1.29,1499.0,3,1,2,2,2,Unknown,1,2,3
+406,Dell,Notebook,15.6,4,Windows 10,2.18,586.6,0,1,1,1,0,Unknown,1,2,1
+30,HP,Notebook,15.6,4,No OS,1.86,259.0,0,1,0,1,0,Unknown,1,0,1
+1039,Acer,Gaming,17.3,16,Windows 10,4.2,1935.0,3,1,3,6,5,Dedicated,2,6,3
+1144,Asus,Gaming,17.3,32,Windows 10,3.8,2799.0,3,1,3,4,10,Dedicated,2,12,3
+429,Xiaomi,Ultrabook,13.3,8,Windows 10,1.28,935.0,3,1,2,3,3,Dedicated,2,2,3
+320,MSI,Gaming,18.4,32,Windows 10,4.4,2799.0,3,1,3,10,10,Unknown,2,10,3
+664,Acer,Notebook,15.6,2,Chrome OS,2.19,199.0,0,1,0,0,0,Unknown,1,0,3
+1008,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,3,1,0,2,0,Unknown,0,0,3
+698,HP,Notebook,15.6,4,No OS,2.1,476.99,0,1,2,3,3,Unknown,1,2,1
+340,Dell,Gaming,15.6,8,Windows 10,2.56,879.0,3,1,2,2,2,Dedicated,2,3,3
+1244,HP,Notebook,13.3,4,Windows 10,1.49,675.0,3,1,2,1,2,Unknown,1,2,1
+916,Toshiba,Ultrabook,14.0,16,Windows 10,1.47,1764.0,3,1,3,6,7,Dedicated,2,5,3
+387,HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,1975.0,3,1,3,6,6,Unknown,1,2,3
+101,Dell,Notebook,15.6,6,Windows 10,2.3,459.0,0,1,1,1,0,Unknown,1,2,1
+177,Lenovo,Gaming,15.6,8,Windows 10,2.5,1249.0,3,1,3,6,6,Dedicated,2,4,3
+680,Acer,Notebook,15.6,8,Windows 10,2.2,832.0,3,1,3,4,4,Dedicated,2,2,3
+414,Dell,Ultrabook,13.3,8,Windows 10,1.21,1599.0,9,4,2,1,2,Unknown,1,2,3
+1019,Acer,Gaming,15.6,8,Windows 10,2.7,1260.0,3,1,3,6,6,Dedicated,2,3,3
+390,Lenovo,Notebook,15.6,8,No OS,2.2,549.0,0,1,2,2,2,Dedicated,2,2,1
+959,MSI,Gaming,17.3,16,Windows 10,2.43,2449.0,3,1,3,6,6,Dedicated,2,10,3
+447,Samsung,Ultrabook,15.0,8,Windows 10,1.17,1699.0,3,1,3,4,4,Unknown,1,2,3
+1090,Lenovo,Notebook,15.6,4,Windows 10,2.3,565.0,0,1,1,0,0,Unknown,1,2,3
+216,Lenovo,Notebook,15.6,8,Windows 10,1.9,817.95,3,1,2,2,2,Dedicated,0,0,3
+852,Lenovo,Notebook,15.6,4,No OS,2.2,468.0,3,1,2,2,2,Unknown,1,2,3
+1141,Dell,Gaming,15.6,8,Windows 10,2.62,1199.0,3,1,3,6,6,Dedicated,2,3,1
+952,Dell,Ultrabook,15.6,8,Windows 10,1.9,663.0,3,1,2,1,2,Dedicated,0,1,1
+1284,Lenovo,Notebook,14.0,4,Windows 10,1.87,785.0,3,1,2,2,2,Unknown,1,2,1
+450,Asus,Gaming,17.3,16,Windows 10,4.3,1799.0,3,1,3,6,6,Dedicated,2,10,3
+691,HP,Notebook,14.0,8,Windows 10,1.64,1049.26,3,1,2,2,2,Dedicated,2,3,3
+830,HP,Notebook,17.3,6,Windows 10,2.71,699.0,3,1,2,2,2,Dedicated,0,1,1
+832,Toshiba,Notebook,13.3,8,Windows 10,1.5,973.0,3,1,2,2,2,Unknown,1,2,3
+683,HP,Notebook,15.6,8,Windows 10,2.31,1165.0,3,1,2,3,3,Unknown,1,2,3
+1183,Asus,Notebook,15.6,4,Windows 10,2.0,339.0,0,1,0,0,0,Unknown,1,0,1
+103,HP,Notebook,14.0,8,Windows 7,1.95,1195.0,3,1,2,3,3,Unknown,1,2,3
+123,Acer,Ultrabook,13.3,8,Windows 10,1.12,989.0,3,1,2,4,5,Unknown,1,5,3
+670,Dell,Gaming,15.6,8,Windows 10,2.65,949.0,3,1,2,2,2,Dedicated,2,3,2
+56,Mediacom,Notebook,13.3,4,Windows 10,1.2,369.0,3,1,0,0,0,Unknown,1,0,3
+1119,Toshiba,Notebook,14.0,4,Windows 10,1.75,915.0,0,1,2,3,3,Unknown,1,2,1
+749,Asus,Gaming,15.6,8,Windows 10,1.99,1350.0,3,1,3,6,6,Dedicated,2,3,3
+604,HP,Notebook,15.6,4,Windows 10,1.91,488.99,3,1,1,0,0,Dedicated,0,0,3
+242,Dell,Notebook,15.6,8,Windows 10,2.2,719.0,3,1,2,1,2,Dedicated,0,1,3
+284,Lenovo,Ultrabook,15.6,6,Windows 10,1.54,831.0,3,1,3,4,4,Dedicated,2,1,3
+988,HP,Ultrabook,12.5,4,Windows 10,1.26,1244.0,0,1,2,3,3,Unknown,1,2,3
+275,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,3,1,3,1,4,Unknown,1,5,3
+1012,Lenovo,Notebook,15.6,8,Windows 10,1.95,1962.99,3,1,2,2,2,Unknown,1,2,3
+774,Dell,Notebook,15.6,8,Windows 10,2.02,759.0,3,1,2,1,2,Dedicated,0,1,1
+588,Dell,Ultrabook,13.3,8,Windows 10,1.21,1649.0,3,1,3,3,3,Unknown,1,2,3
+1289,Asus,Gaming,17.3,16,Windows 10,3.0,1504.0,3,1,3,6,6,Dedicated,2,5,3
+790,Toshiba,Notebook,15.6,16,Windows 10,2.4,1403.0,3,1,3,2,4,Dedicated,2,5,3
+13,Acer,Notebook,15.6,4,Windows 10,2.4,380.0,0,1,0,0,0,Unknown,1,0,1
+840,Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,1899.0,9,4,3,6,6,Dedicated,2,3,3
+995,Dell,Notebook,15.6,8,Windows 10,2.36,557.37,0,0,2,2,2,Unknown,1,2,1
+647,Chuwi,Notebook,15.6,4,Windows 10,1.89,248.9,3,1,0,0,0,Unknown,1,0,0
+400,Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,999.0,3,1,2,1,2,Dedicated,2,4,1
+98,Lenovo,Notebook,13.3,8,Windows 10,1.1,999.0,3,1,2,2,2,Unknown,1,2,3
+1292,MSI,Gaming,17.3,16,Windows 10,2.7,1598.0,3,1,3,6,6,Dedicated,2,6,3
+202,HP,Workstation,17.3,16,Windows 7,3.0,4389.0,3,1,4,10,12,Dedicated,2,11,3
+198,Razer,Ultrabook,12.5,8,Windows 10,1.25,1029.0,9,4,3,2,4,Unknown,1,2,3
+1025,HP,Gaming,17.3,12,Windows 10,2.62,1799.0,3,1,3,6,6,Dedicated,2,6,1
+1232,Dell,Notebook,14.0,8,Windows 10,1.64,1179.0,3,1,2,6,3,Dedicated,2,3,3
+368,Apple,Ultrabook,11.6,4,Mac OS X,1.08,959.0,0,1,2,1,2,Unknown,1,2,0
+1107,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1799.0,5,2,3,0,6,Unknown,1,6,3
+1153,Acer,Notebook,17.3,4,Windows 10,3.0,702.0,3,1,1,4,1,Dedicated,2,1,3
+859,Chuwi,Notebook,15.6,4,Windows 10,1.89,244.99,3,1,0,0,0,Unknown,1,0,0
+190,Dell,Ultrabook,12.5,4,Windows 7,1.5,1135.15,0,1,1,3,1,Unknown,1,2,1
+773,HP,Notebook,15.6,8,Windows 10,1.91,579.0,0,1,2,2,2,Unknown,1,2,3
+876,Asus,Ultrabook,13.3,8,Windows 10,1.2,1129.0,5,2,2,2,2,Unknown,1,2,3
+118,Dell,Gaming,15.6,16,Windows 10,2.62,1679.0,9,4,3,6,6,Dedicated,2,4,3
+246,Dell,Notebook,15.6,8,Windows 10,2.24,565.0,3,1,2,2,2,Dedicated,0,0,1
+1069,HP,Notebook,15.6,4,Windows 7,1.88,932.0,0,1,2,3,3,Unknown,1,2,1
+1219,Dell,Gaming,17.3,32,Windows 10,4.42,3147.37,9,4,3,6,6,Dedicated,2,10,3
+1030,HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,775.0,0,0,0,0,0,Unknown,1,0,3
+589,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,2013.1,5,2,3,6,7,Unknown,1,5,3
+1106,Lenovo,Notebook,15.6,6,Windows 10,2.2,549.0,3,1,2,0,0,Dedicated,0,1,3
+1283,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1299.0,3,1,3,6,6,Unknown,1,4,3
+1269,Razer,Ultrabook,12.5,16,Windows 10,1.29,1799.0,9,4,3,2,4,Unknown,1,2,3
+1223,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,1849.0,9,4,3,3,3,Unknown,1,2,3
+161,HP,Notebook,17.3,4,Windows 10,2.71,439.0,3,1,0,2,0,Dedicated,0,1,1
+124,Asus,Notebook,14.0,4,Windows 10,2.0,769.0,3,1,1,1,0,Unknown,1,2,3
+1198,HP,Notebook,15.6,6,Windows 10,2.18,799.0,3,1,3,6,5,Dedicated,2,3,1
+204,HP,Notebook,13.3,8,Windows 10,1.49,1103.0,3,1,3,3,3,Unknown,1,2,3
+18,Dell,Ultrabook,13.3,8,Windows 10,1.23,1379.0,5,2,3,1,4,Unknown,1,5,3
+84,Acer,Notebook,15.6,8,Windows 10,2.2,689.0,3,1,3,3,3,Dedicated,2,2,1
+874,Dell,Workstation,15.6,8,Windows 10,2.0,2135.0,3,1,3,4,9,Dedicated,2,8,3
+222,Dell,Ultrabook,13.3,8,Windows 10,1.41,949.0,3,1,2,1,2,Unknown,1,2,3
+1158,Lenovo,Notebook,17.3,6,Windows 10,2.8,949.0,1,1,3,4,4,Dedicated,2,2,3
+1145,HP,Workstation,17.3,8,Windows 7,3.0,2899.0,3,1,3,6,5,Dedicated,0,10,1
+1272,Dell,Notebook,15.6,6,Windows 10,2.3,439.0,0,0,1,1,0,Unknown,1,2,1
+1207,Asus,Notebook,14.0,4,Windows 10,1.5,286.0,0,1,0,0,0,Unknown,1,0,0
+430,Mediacom,Notebook,14.0,4,Windows 10,1.4,265.0,0,1,0,0,0,Unknown,1,0,1
+1291,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1279.0,4,3,3,4,4,Unknown,1,4,0
+491,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,1673.0,3,1,3,6,7,Unknown,1,2,3
+623,HP,Notebook,15.6,8,Windows 10,2.04,629.0,0,1,2,2,1,Dedicated,0,1,1
+147,Dell,Notebook,15.6,4,Windows 10,2.2,749.0,3,1,2,1,2,Dedicated,0,1,3
+33,Lenovo,Notebook,13.3,4,Windows 10,1.44,735.0,3,1,1,1,0,Unknown,1,2,3
+943,Toshiba,Notebook,13.3,4,Windows 7,1.2,1195.0,3,1,2,3,3,Unknown,1,2,3
+1253,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1970.0,3,1,3,4,4,Unknown,1,2,3
+1097,Dell,Ultrabook,14.0,8,Windows 10,1.36,1639.0,3,1,2,2,2,Unknown,1,2,3
+866,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,1279.0,3,1,3,3,3,Unknown,1,2,3
+558,HP,Notebook,15.6,16,Windows 10,2.1,1159.0,3,1,3,3,3,Unknown,1,2,3
+1085,Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,319.0,0,0,0,0,0,Unknown,1,0,0
+1041,HP,Notebook,14.0,2,Windows 10,1.44,249.0,0,1,0,1,0,Unknown,1,0,0
+1277,Asus,Notebook,15.6,8,Windows 10,2.5,839.0,3,1,2,2,2,Dedicated,2,3,3
+1082,Lenovo,Gaming,17.3,32,Windows 10,4.6,2663.0,3,1,3,4,10,Dedicated,2,10,3
+73,Razer,Gaming,17.3,32,Windows 10,3.49,5499.0,9,4,3,10,10,Dedicated,2,12,3
+199,Asus,Gaming,17.3,16,No OS,4.0,998.0,3,1,3,6,5,Dedicated,2,4,1
+1159,MSI,Gaming,17.3,8,Windows 10,2.6,1599.0,3,1,3,6,5,Dedicated,2,4,3
+1208,HP,Notebook,15.6,4,No OS,1.86,288.9,0,1,0,1,0,Unknown,1,0,1
+579,Acer,Notebook,15.6,4,Windows 10,2.2,639.0,3,1,3,4,4,Dedicated,2,2,1
+302,HP,Ultrabook,13.3,8,Windows 10,1.34,1323.0,3,1,3,4,4,Unknown,1,2,3
+818,HP,Notebook,17.3,8,Windows 10,2.63,1080.0,3,1,2,2,2,Dedicated,2,3,3
+1006,Acer,Notebook,15.6,4,Linux,2.4,289.0,0,1,0,1,0,Unknown,1,0,1
+448,Dell,Gaming,15.6,8,Windows 10,2.62,1099.0,3,1,3,6,6,Dedicated,2,3,1
+919,MSI,Gaming,15.6,16,Windows 10,2.2,1299.0,3,1,3,6,6,Dedicated,2,4,3
+35,Dell,Notebook,15.6,4,Windows 10,2.3,639.0,3,1,2,2,2,Dedicated,0,0,3
+1045,Dell,Notebook,15.6,8,Windows 10,2.18,750.0,3,1,2,2,2,Unknown,1,2,3
+596,Dell,Notebook,15.6,4,Linux,2.18,455.7,0,1,1,0,0,Dedicated,0,0,1
+1218,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,1637.0,9,0,2,3,3,Unknown,1,2,3
+214,Dell,Notebook,15.6,4,Windows 10,1.93,959.0,0,1,2,6,4,Unknown,1,2,1
+469,HP,Notebook,17.3,8,Windows 10,2.5,1045.0,3,1,3,3,3,Dedicated,2,3,3
+933,Dell,Notebook,15.6,4,Windows 10,2.18,912.5,3,1,2,2,2,Dedicated,2,2,3
+1249,Mediacom,Notebook,14.0,4,Windows 10,1.4,249.0,3,1,0,0,0,Unknown,1,0,3
+803,Dell,Notebook,15.6,8,Windows 10,2.2,745.0,3,1,3,4,4,Dedicated,0,0,3
+372,Acer,Notebook,15.6,4,Linux,2.4,289.0,0,1,0,1,0,Unknown,1,0,1
+1287,Asus,Notebook,15.6,8,Windows 10,2.0,1299.0,9,4,3,4,4,Dedicated,2,3,3
+506,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,1363.0,3,1,3,2,4,Unknown,1,2,3
+775,Asus,Gaming,17.3,12,Windows 10,2.2,1369.9,3,1,2,2,2,Dedicated,2,3,3
+281,HP,Notebook,14.0,4,Windows 10,1.48,1590.0,3,1,2,2,2,Unknown,1,2,3
+234,Dell,Gaming,15.6,16,Windows 10,2.62,1479.0,3,1,3,6,6,Dedicated,2,4,3
+782,Dell,Notebook,15.6,4,Windows 10,2.2,443.99,0,1,0,1,0,Unknown,1,0,1
+307,Acer,Notebook,14.0,8,Windows 10,1.56,902.0,3,1,2,2,2,Unknown,1,2,3
+106,Toshiba,Notebook,15.6,8,Windows 10,2.0,1258.0,3,1,2,2,2,Unknown,1,2,3
+504,HP,Notebook,15.6,8,Windows 10,1.86,539.0,3,1,1,0,0,Unknown,1,2,3
+1172,HP,Notebook,14.0,4,Windows 10,2.31,1189.0,0,1,2,2,2,Unknown,1,2,1
+1276,Asus,Notebook,15.6,4,Linux,2.0,274.99,0,1,0,0,0,Unknown,1,0,1
+228,Asus,Notebook,15.6,4,Windows 10,2.2,720.32,0,1,3,2,4,Dedicated,2,1,1
+424,HP,Notebook,15.6,4,Windows 10,2.04,839.0,3,1,2,2,2,Unknown,1,2,3
+740,HP,Notebook,15.6,4,Windows 10,2.04,979.0,0,1,2,2,2,Unknown,1,2,3
+415,HP,Notebook,15.6,4,Windows 10,2.1,705.5,3,1,1,1,0,Unknown,1,2,3
+116,Asus,Notebook,17.3,4,Windows 10,2.8,530.0,1,1,0,1,0,Dedicated,2,1,1
+1009,Dell,Notebook,13.3,8,Windows 10,1.62,649.0,3,1,2,3,3,Unknown,1,2,1
+79,Dell,Gaming,15.6,16,Windows 10,2.72,1099.0,9,4,3,6,5,Dedicated,2,3,3
+1234,HP,Notebook,15.6,4,Windows 10,1.91,478.89,3,1,0,2,0,Dedicated,0,1,3
+272,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,1875.0,3,1,2,2,2,Unknown,1,2,0
+247,Asus,Gaming,15.6,16,Windows 10,2.59,1339.0,3,1,3,6,5,Dedicated,2,3,3
+1178,Dell,Gaming,17.3,16,Windows 10,4.42,3012.77,3,1,3,6,6,Dedicated,2,10,3
+409,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,1199.0,3,1,2,2,2,Unknown,1,2,3
+46,Lenovo,Gaming,17.3,32,Windows 10,4.6,3240.0,3,1,3,4,10,Dedicated,2,10,3
+52,Lenovo,Notebook,15.6,8,Windows 10,2.2,429.0,0,1,2,0,0,Dedicated,0,0,1
+855,Lenovo,Notebook,13.3,8,Windows 10,1.44,949.0,3,1,2,2,2,Unknown,1,2,3
+1273,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,833.01,3,1,2,3,3,Unknown,1,2,3
+1095,Asus,Notebook,15.6,4,Windows 10,1.68,469.0,0,1,1,0,0,Dedicated,0,0,1
+254,Dell,Notebook,14.0,4,Windows 10,1.6,875.0,0,1,2,2,2,Unknown,1,2,1
+431,Lenovo,Notebook,15.6,4,No OS,1.85,403.5,3,1,1,0,0,Unknown,1,2,3
+19,Acer,Ultrabook,14.0,8,Windows 10,1.8,919.0,3,1,2,2,2,Unknown,1,2,3
+213,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,1749.0,3,1,3,4,4,Unknown,1,2,3
+339,Lenovo,Notebook,14.0,8,Windows 10,1.65,1345.0,3,1,2,2,2,Unknown,1,2,3
+223,HP,Notebook,14.0,8,Windows 10,1.94,389.0,0,1,0,1,0,Unknown,1,0,1
+456,Apple,Ultrabook,12.0,8,Mac OS X,0.92,1300.0,4,3,3,0,4,Unknown,1,4,0
+986,Dell,Notebook,15.6,12,Windows 10,2.3,713.07,0,1,3,4,4,Unknown,1,2,1
+253,Lenovo,Notebook,15.6,4,No OS,2.1,398.0,0,1,2,3,3,Unknown,1,2,1
+4,HP,Notebook,15.6,6,Windows 10,2.04,549.99,3,1,1,10,0,Dedicated,0,0,2
+1134,Lenovo,Notebook,15.6,4,Windows 10,2.2,399.0,3,1,1,10,0,Dedicated,0,1,3
+1137,Lenovo,Notebook,15.6,12,Windows 10,2.2,609.0,0,0,3,3,3,Unknown,1,2,1
+137,Xiaomi,Ultrabook,13.3,8,No OS,1.3,999.9,3,1,2,2,2,Dedicated,2,2,3
+1187,HP,Notebook,15.6,4,Windows 7,2.31,940.0,3,1,2,3,3,Unknown,1,2,1
+12,Dell,Notebook,14.0,8,Windows 10,1.79,740.0,0,1,1,3,1,Unknown,1,2,3
+478,Lenovo,Notebook,15.6,4,No OS,2.2,309.0,0,1,0,10,0,Dedicated,0,0,1
+207,Lenovo,Notebook,15.6,4,Windows 10,2.2,299.0,0,1,0,0,0,Dedicated,0,0,1
+793,Lenovo,Notebook,14.0,4,Windows 10,2.02,990.0,0,1,2,2,2,Unknown,1,2,1
+1133,Dell,Gaming,15.6,16,Windows 10,2.65,1845.0,9,4,3,6,6,Dedicated,2,6,3
+266,Xiaomi,Notebook,15.6,8,No OS,1.95,1199.0,3,1,2,1,2,Dedicated,2,2,3
+1052,Lenovo,Workstation,15.6,16,Windows 10,2.5,3299.0,9,4,3,6,6,Dedicated,2,11,3
+241,HP,Notebook,15.6,6,Windows 10,2.19,764.0,0,1,3,2,4,Dedicated,0,1,1
+89,Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,389.0,0,0,0,1,0,Unknown,1,0,0
+716,Toshiba,Notebook,13.3,4,Windows 10,1.2,1195.0,3,1,2,3,3,Unknown,1,2,3
+517,Acer,Notebook,15.6,8,Windows 10,2.4,449.0,0,1,1,0,0,Dedicated,0,0,1
+891,Dell,Ultrabook,14.0,8,Windows 10,1.36,1775.0,3,1,3,6,6,Unknown,1,2,3
+1179,Dell,Notebook,15.6,8,Linux,2.3,805.99,0,1,3,4,4,Dedicated,0,0,1
